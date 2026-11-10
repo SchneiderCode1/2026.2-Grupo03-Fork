@@ -8,7 +8,7 @@
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Nenhuma até esta versão | — | — |
 | Gabriel Robson Nunes Neiva da Silva | Nenhuma até esta versão | — | — |
-| Henrique Schneider Fernandes da Rosa | Correção do título (versão 0.2) e inclusão das tabelas de vídeos por entrega (versões 1.0 e 1.1) e do vídeo da Entrega 5 (versão 1.2) | [Commit 530579c](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/530579c) | — |
+| Henrique Schneider Fernandes da Rosa | Correção do título (versão 0.2), inclusão das tabelas de vídeos por entrega (versões 1.0 e 1.1), do vídeo da Entrega 5 (versão 1.2) e dos vídeos da Entrega 6 com os players incorporados (versão 1.3) | [Commit 530579c](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commit/530579c) | — |
 | João Vitor Tavares de Sá Lima | Nenhuma até esta versão | — | — |
 
 Fonte: elaborado pelos autores (2026). A versão 0.1 da página foi criada pelo ex-integrante Eduardo Ribeiro Gomes da Silva (Tabela 2).
@@ -24,6 +24,7 @@ Fonte: elaborado pelos autores (2026). A versão 0.1 da página foi criada pelo 
 | 15/10/2026 | 1.0 | Inclusão das tabelas de vídeos por entrega, com os integrantes de cada gravação, a partir das atas, dos relatórios e do histórico do repositório | Henrique Schneider | — |
 | 17/10/2026 | 1.1 | Organização por entrega: inclusão da tabela de contribuição, do link do vídeo da Entrega 1 informado no relatório entregue e renumeração das tabelas | Henrique Schneider | — |
 | 25/10/2026 | 1.2 | Inclusão do vídeo de apresentação da Entrega 5 (parte de Henrique Schneider) na Tabela 3 | Henrique Schneider, com apoio do Claude (IA generativa) | — |
+| 10/11/2026 | 1.3 | Inclusão dos vídeos da Entrega 6 na Tabela 3 e da seção 5, com os vídeos das apresentações incorporados à página | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -46,6 +47,7 @@ A Tabela 3 lista as apresentações das entregas, com a data da apresentação e
 | 3 – Princípios Gerais, Metas de Usabilidade e Guia de Estilo | 08/10/2026 | — | — | — |
 | 4 – Planejamento da Avaliação do Storyboard e da Análise de Tarefas | 15/10/2026 | — | — | [Relatório](assets/pdfs/entregas/relatorio-entrega-4-grupo-03.pdf) |
 | 5 – Relato do Storyboard e da HTA e Planejamento do Protótipo de Papel | 27/10/2026 | [YouTube](https://youtu.be/m-QXJ-4WZkI) (parte de Henrique Schneider) | Henrique Schneider | [Relatório](entrega-5/relatorio-do-grupo.md) |
+| 6 – Relato do Protótipo de Papel e Planejamento do Protótipo de Alta Fidelidade | 05/11/2026 | [YouTube](https://youtu.be/sI_3rqIQbCU) (parte de Henrique Schneider); [YouTube](https://youtu.be/aLhUbnt0ST8) (apresentação da avaliação e entrevista de Alexandre Vilar) | Henrique Schneider; Alexandre Vilar | [Relatório](entrega-6/relatorio-do-grupo.md) |
 
 Fonte: elaborado pelos autores (2026), com as datas do Plano de Ensino (SALES, 2026, pp. 4–5) e o link do vídeo da Entrega 1 informado no relatório entregue (GRUPO 03, 2026, p. 2).
 
@@ -78,7 +80,35 @@ A Tabela 5 lista as gravações das reuniões registradas em ata.
 
 Fonte: elaborado pelos autores (2026), com base nas atas.
 
-## Referências
+## 5. Assistir às apresentações
+
+As apresentações da Tabela 3 podem ser vistas nesta página. Cada bloco abre o vídeo incorporado, sem sair do site.
+
+??? note "Entrega 1 – Planejamento do Projeto"
+
+    <div class="g03-video"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/ecoCELlSg28" title="Entrega 1 – Planejamento do Projeto" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+    [Abrir no YouTube](https://youtu.be/ecoCELlSg28)
+
+??? note "Entrega 5 – parte de Henrique Schneider"
+
+    <div class="g03-video"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/m-QXJ-4WZkI" title="Entrega 5 – parte de Henrique Schneider" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+    [Abrir no YouTube](https://youtu.be/m-QXJ-4WZkI)
+
+??? note "Entrega 6 – parte de Henrique Schneider"
+
+    <div class="g03-video"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/sI_3rqIQbCU" title="Entrega 6 – parte de Henrique Schneider" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+    [Abrir no YouTube](https://youtu.be/sI_3rqIQbCU)
+
+??? note "Entrega 6 – avaliação e entrevista de Alexandre Vilar"
+
+    <div class="g03-video"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/aLhUbnt0ST8" title="Entrega 6 – avaliação e entrevista de Alexandre Vilar" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+    [Abrir no YouTube](https://youtu.be/aLhUbnt0ST8)
+
+## Referências bibliográficas
 
 GRUPO 03. *Relatório da Entrega 1*: planejamento do projeto: Detran-DF. Brasília: Universidade de Brasília, 2026. Disponível em: [PDF](assets/pdfs/entregas/relatorio-entrega-1-grupo-03.pdf).
 
@@ -87,3 +117,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para montar as tabelas desta página com os links de vídeo já registrados nas atas, nos relatórios de inspeção, no relatório da Entrega 1 e no histórico do repositório (commit f0d0999). A visibilidade "não listado" dos vídeos não foi presumida. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+**Atualização em 10/11/2026.** O Claude (Anthropic), a pedido de Henrique Schneider, foi utilizado para incluir os vídeos da Entrega 6 já publicados nas páginas dos integrantes e incorporar os players na seção 5. Nenhum link foi criado (SALES, 2026, p. 3).
