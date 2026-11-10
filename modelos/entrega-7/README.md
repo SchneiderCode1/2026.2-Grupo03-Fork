@@ -21,6 +21,10 @@ Modelos de página para o **Relato dos resultados do protótipo de alta fidelida
 | `integrante/relato-teste-usabilidade.md` | `docs/entrega-7/integrantes/<nome>/relato-teste-usabilidade.md` |
 | `integrante/video-avaliacao.md` | `docs/entrega-7/integrantes/<nome>/video-avaliacao.md` |
 
+## Planilha de coleta e consolidação
+
+`planilha-coleta-teste-usabilidade.xlsx` (sem nenhum dado de sessão) serve aos testes de cada integrante: a aba "Dados" recebe uma linha por participante e tarefa, a aba "Metas" traz os valores-alvo da Tabela 3 do Planejamento de Henrique (tempos ainda a confirmar após o piloto), a aba "Sumário" calcula sozinha a Tabela 8 (n/N, tempo médio e desvio, erros, ajuda, nota) e a aba "Problemas" é a Tabela 9. Os dados do piloto não entram na planilha (Barbosa; Silva, 2010, p. 307). Quem tiver tarefas ou metas diferentes ajusta as abas "Metas" e "Dados".
+
 Trecho do `mkdocs.yml` para a aba, no mesmo padrão das Entregas 5 e 6:
 
 ```yaml
