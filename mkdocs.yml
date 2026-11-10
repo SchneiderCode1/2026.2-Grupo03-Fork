@@ -137,8 +137,8 @@ nav:
     - Relatórios das entregas: relatorios/index.md
     - Apresentações e gravações: apresentacoes.md
     - Plano de Ensino: disciplina/plano-de-ensino.md
-
-  - "Entrega 1":
+  - Entrega 1:
+    - entrega-1/index.md
     - Relatório da entrega: entrega-1/relatorio.md
     - Planejamento:
       - Heatmap de disponibilidade: entrega-1/planejamento/heatmap.md
@@ -167,8 +167,8 @@ nav:
         - "Lista de verificação – DECIDE": entrega-1/integrantes/joao-vitor/lista-decide.md
         - "Lista de verificação – Métodos de avaliação": entrega-1/integrantes/joao-vitor/lista-metodos-avaliacao.md
         - "Exercício – Verificação e validação": entrega-1/integrantes/joao-vitor/exercicio-verificacao-validacao.md
-
-  - "Entrega 2":
+  - Entrega 2:
+    - entrega-2/index.md
     - Relatório da entrega: entrega-2/relatorio.md
     - Perfil do usuário e tarefas:
       - Perfis de usuário e personas: entrega-2/perfil-e-tarefas/perfis-e-personas.md
@@ -202,8 +202,8 @@ nav:
         - "Lista de verificação – Elenco de personas": entrega-2/integrantes/joao-vitor/lista-elenco-personas.md
         - "Lista de verificação – HTA": entrega-2/integrantes/joao-vitor/lista-hta.md
         - "Lista de verificação – CTT": entrega-2/integrantes/joao-vitor/lista-ctt.md
-
-  - "Entrega 3":
+  - Entrega 3:
+    - entrega-3/index.md
     - Relatório da entrega: entrega-3/relatorio.md
     - Princípios, metas e guia:
       - Princípios gerais: entrega-3/principios-metas-e-guia/principios-gerais.md
@@ -219,8 +219,8 @@ nav:
       - Gabriel Robson: entrega-3/integrantes/gabriel-robson/index.md
       - Henrique Schneider: entrega-3/integrantes/henrique-schneider/index.md
       - João Vitor: entrega-3/integrantes/joao-vitor/index.md
-
-  - "Entrega 4":
+  - Entrega 4:
+    - entrega-4/index.md
     - Relatório da entrega: entrega-4/relatorio.md
     - Planejamento da avaliação (DECIDE): entrega-4/planejamento-da-avaliacao/decide.md
     - Contribuições: entrega-4/contribuicoes.md
@@ -230,25 +230,26 @@ nav:
     - Material dos integrantes:
       - Alexandre Vilar:
         - Visão geral: entrega-4/integrantes/alexandre-vilar/index.md
-        - "Planejamento individual": entrega-4/integrantes/alexandre-vilar/planejamento-individual.md
+        - Planejamento individual: entrega-4/integrantes/alexandre-vilar/planejamento-individual.md
         - "Lista de verificação – Storyboard": entrega-4/integrantes/alexandre-vilar/lista-storyboard.md
       - Gabriel Robson:
         - Visão geral: entrega-4/integrantes/gabriel-robson/index.md
-        - "Planejamento individual": entrega-4/integrantes/gabriel-robson/planejamento-individual.md
+        - Planejamento individual: entrega-4/integrantes/gabriel-robson/planejamento-individual.md
       - Henrique Schneider:
         - Visão geral: entrega-4/integrantes/henrique-schneider/index.md
-        - "Planejamento individual": entrega-4/integrantes/henrique-schneider/planejamento-individual.md
+        - Planejamento individual: entrega-4/integrantes/henrique-schneider/planejamento-individual.md
       - João Vitor:
         - Visão geral: entrega-4/integrantes/joao-vitor/index.md
-        - "Planejamento individual": entrega-4/integrantes/joao-vitor/planejamento-individual.md
+        - Planejamento individual: entrega-4/integrantes/joao-vitor/planejamento-individual.md
         - "Lista de verificação – Storyboard": entrega-4/integrantes/joao-vitor/lista-storyboard.md
-
-  - "Entrega 5":
+  - Entrega 5:
+    - entrega-5/index.md
     - Relatório da entrega: entrega-5/relatorio.md
     - Contribuições: entrega-5/contribuicoes.md
-    - Inspeção do Grupo 08: entrega-5/verificacao/inspecao-grupo-08.md
     - Relatório do grupo: entrega-5/relatorio-do-grupo.md
-    - Lista de verificação: entrega-5/verificacao/lista-de-verificacao.md
+    - Verificação:
+      - Lista de verificação: entrega-5/verificacao/lista-de-verificacao.md
+      - Inspeção do Grupo 08: entrega-5/verificacao/inspecao-grupo-08.md
     - Material dos integrantes:
       - Alexandre Vilar:
         - Visão geral: entrega-5/integrantes/alexandre-vilar/index.md
@@ -260,6 +261,14 @@ nav:
         - Roteiro de entrevista e fontes: entrega-5/integrantes/alexandre-vilar/roteiro-entrevista.md
         - Vídeo da entrevista: entrega-5/integrantes/alexandre-vilar/video-entrevista.md
         - Relatório pós-entrevista: entrega-5/integrantes/alexandre-vilar/relatorio-pos-entrevista.md
+      - Gabriel Robson:
+        - Visão geral: entrega-5/integrantes/gabriel-robson/index.md
+        - HTA de referência: entrega-5/integrantes/gabriel-robson/hta-atual.md
+        - Storyboard textual: entrega-5/integrantes/gabriel-robson/storyboard.md
+        - HTA do redesign: entrega-5/integrantes/gabriel-robson/hta-redesign.md
+        - Roteiro de entrevista: entrega-5/integrantes/gabriel-robson/roteiro-entrevista.md
+        - Estado da avaliação: entrega-5/integrantes/gabriel-robson/avaliacao.md
+        - Protótipo demonstrativo: entrega-5/integrantes/gabriel-robson/prototipo.html
       - Henrique Schneider:
         - Visão geral: entrega-5/integrantes/henrique-schneider/index.md
         - Storyboard: entrega-5/integrantes/henrique-schneider/storyboard.md
@@ -277,51 +286,44 @@ nav:
         - Roteiro de entrevista e fontes: entrega-5/integrantes/joao-vitor/roteiro-entrevista.md
         - Vídeo da entrevista: entrega-5/integrantes/joao-vitor/video-entrevista.md
         - Relatório pós-entrevista: entrega-5/integrantes/joao-vitor/relatorio-pos-entrevista.md
-
-      - Gabriel Robson:
-        - Visão geral: entrega-5/integrantes/gabriel-robson/index.md
-        - HTA de referência: entrega-5/integrantes/gabriel-robson/hta-atual.md
-        - Storyboard textual: entrega-5/integrantes/gabriel-robson/storyboard.md
-        - HTA do redesign: entrega-5/integrantes/gabriel-robson/hta-redesign.md
-        - Roteiro de entrevista: entrega-5/integrantes/gabriel-robson/roteiro-entrevista.md
-        - Estado da avaliação: entrega-5/integrantes/gabriel-robson/avaliacao.md
-        - Protótipo demonstrativo: entrega-5/integrantes/gabriel-robson/prototipo.html
-
-  - "Entrega 6":
+  - Entrega 6:
+    - entrega-6/index.md
+    - Relatório da entrega: entrega-6/relatorio.md
+    - Relatório do grupo: entrega-6/relatorio-do-grupo.md
+    - Contribuições: entrega-6/contribuicoes.md
     - Material dos integrantes:
-      - Henrique Schneider:
-        - Visão geral: entrega-6/integrantes/henrique-schneider/index.md
-        - Roteiro do protótipo de papel: entrega-6/integrantes/henrique-schneider/prototipo-papel.md
-        - Especificação da alta fidelidade: entrega-6/integrantes/henrique-schneider/especificacao-alta-fidelidade.md
-        - Planejamento do teste de usabilidade: entrega-6/integrantes/henrique-schneider/planejamento-alta-fidelidade.md
       - Alexandre Vilar:
         - Visão geral: entrega-6/integrantes/alexandre-vilar/index.md
         - Protótipo de papel: entrega-6/integrantes/alexandre-vilar/prototipo-papel.md
         - Planejamento da alta fidelidade: entrega-6/integrantes/alexandre-vilar/planejamento-alta-fidelidade.md
         - Vídeo da avaliação: entrega-6/integrantes/alexandre-vilar/video-avaliacao.md
-      - João Vitor:
-        - Visão geral: entrega-6/integrantes/joao-vitor/index.md
-        - Protótipo de papel: entrega-6/integrantes/joao-vitor/prototipo-papel.md
-        - Planejamento da alta fidelidade: entrega-6/integrantes/joao-vitor/planejamento-alta-fidelidade.md
-        - Vídeo da avaliação: entrega-6/integrantes/joao-vitor/video-avaliacao.md
       - Gabriel Robson:
         - Visão geral: entrega-6/integrantes/gabriel-robson/index.md
         - Protótipo de papel: entrega-6/integrantes/gabriel-robson/prototipo-papel.md
         - Planejamento da alta fidelidade: entrega-6/integrantes/gabriel-robson/planejamento-alta-fidelidade.md
         - Vídeo da avaliação: entrega-6/integrantes/gabriel-robson/video-avaliacao.md
-
+      - Henrique Schneider:
+        - Visão geral: entrega-6/integrantes/henrique-schneider/index.md
+        - Roteiro do protótipo de papel: entrega-6/integrantes/henrique-schneider/prototipo-papel.md
+        - Especificação da alta fidelidade: entrega-6/integrantes/henrique-schneider/especificacao-alta-fidelidade.md
+        - Planejamento do teste de usabilidade: entrega-6/integrantes/henrique-schneider/planejamento-alta-fidelidade.md
+      - João Vitor:
+        - Visão geral: entrega-6/integrantes/joao-vitor/index.md
+        - Protótipo de papel: entrega-6/integrantes/joao-vitor/prototipo-papel.md
+        - Planejamento da alta fidelidade: entrega-6/integrantes/joao-vitor/planejamento-alta-fidelidade.md
+        - Vídeo da avaliação: entrega-6/integrantes/joao-vitor/video-avaliacao.md
+  - Entrega 7:
+    - entrega-7/index.md
   - Trabalhos Avaliativos:
     - Visão geral: trabalhos-avaliativos/index.md
     - Alexandre Vilar: trabalhos-avaliativos/alexandre-vilar.md
     - Gabriel Robson: trabalhos-avaliativos/gabriel-robson.md
     - Henrique Schneider: trabalhos-avaliativos/henrique-schneider.md
     - João Vitor: trabalhos-avaliativos/joao-vitor.md
-
   - Listas de Verificação:
     - Visão geral: listas-verificacao/index.md
     - Autoavaliação (Entregas 1 a 3): listas-verificacao/autoavaliacao.md
     - Projeto Final: listas-verificacao/projeto-final.md
-
   - Integrantes:
     - Visão geral: integrantes/index.md
     - Alexandre Vilar: integrantes/alexandre-vilar.md
@@ -329,7 +331,6 @@ nav:
     - Henrique Schneider: integrantes/henrique-schneider.md
     - João Vitor: integrantes/joao-vitor.md
     - Eduardo Ribeiro (Entregas 1 e 2): integrantes/eduardo-ribeiro.md
-
   - Atas:
     - Visão geral: atas/index.md
     - "Reunião 01 – 27/09/2026": atas/ata-reuniao-20260927-01.md
