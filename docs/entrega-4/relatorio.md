@@ -22,8 +22,13 @@ Fonte: elaborado pelos autores (2026), com base no relatório entregue (Grupo 03
 | 13/10/2026 | 1.0 | Relatório entregue no Moodle em PDF ("Planejamento Entrega 4") | Grupo 03 (relatório assinado pelo grupo) | — |
 | 15/10/2026 | 2.0 | Reescrita do relatório como página do site: escopo, planejamento DECIDE publicado em página própria, artefatos, matriz de conformidade com a lista do Plano de Ensino e inspeção; atualização dos links das atas, que passaram para a aba "Atas" | Henrique Schneider | — |
 | 17/10/2026 | 2.1 | Organização por entrega; atualização da equipe, dos artefatos e das listas individuais; reorganização das seções | Henrique Schneider | — |
+| 10/11/2026 | 2.2 | Inclusão da introdução da página (detalhes na seção de uso de IA generativa) | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026).
+
+## Introdução
+
+Esta página é o relatório do grupo da Entrega 4 (Planejamento da Avaliação do Storyboard e da Análise de Tarefas), com vencimento em 13/10/2026 no Moodle. Ela identifica a entrega, indica o escopo e o planejamento da avaliação, lista os artefatos produzidos e registra a inspeção realizada.
 
 ## 1. Identificação
 
@@ -94,3 +99,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 O relatório entregue registra o uso do Claude (Anthropic) e do Gemini (Google) (Grupo 03, 2026a, p. 15); a declaração completa está na página [Planejamento DECIDE](planejamento-da-avaliacao/decide.md).
 
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para transcrever o relatório da Entrega 4 como página do site, a partir do texto do PDF entregue, e para organizar as Tabelas 1 e 3 a 5. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+**Introdução (10/11/2026).** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para redigir o parágrafo de introdução desta página a partir das seções já existentes, sem acrescentar dados novos. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

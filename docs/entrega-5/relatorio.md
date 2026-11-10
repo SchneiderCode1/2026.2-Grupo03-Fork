@@ -27,7 +27,12 @@ Fonte: materiais disponibilizados para esta organização (2026). A tabela não 
 | 25/10/2026 | 1.5 | Inclusão da consolidação de Alexandre no relatório do grupo e sincronização do perfil de P2 | Alexandre Vilar, com apoio do ChatGPT | — |
 | 25/10/2026 | 1.6 | Atualização dos dados confirmados da entrevista e do piloto de Alexandre e do planejamento provisório | Alexandre Vilar, com apoio do ChatGPT | — |
 | 10/11/2026 | 1.7 | Inclusão dos materiais de Gabriel Robson nas Tabelas 1 e 4, remissão à lista de verificação e à inspeção do Grupo 08 (seção 6) e padronização das referências | Henrique Schneider | — |
+| 10/11/2026 | 1.8 | Inclusão da introdução da página (detalhes na seção de uso de IA generativa) | Henrique Schneider | — |
 Fonte: histórico da página e registro desta atualização (2026).
+
+## Introdução
+
+Esta página é o relatório do grupo da Entrega 5 (Avaliação do Storyboard e da Análise de Tarefas), com vencimento em 25/10/2026 no Moodle. Ela identifica a entrega, indica o escopo e a organização da avaliação, lista os artefatos produzidos, reúne os registros da entrevista e dos resultados e aponta a inspeção e a verificação.
 
 ## 1. Identificação
 
@@ -136,3 +141,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 **Dados complementares informados pelo autor em 25/10/2026.** Alexandre Vilar forneceu os dados retrospectivos das sessões e as intenções para a próxima avaliação. Datas e locais futuros permanecem provisórios; a indicação de João Vitor como revisor não significa que a revisão foi concluída.
 
 **Atualização em 10/11/2026.** O Claude (Anthropic), a pedido de Henrique Schneider, foi utilizado para incluir nas Tabelas 1 e 4 os materiais de Gabriel Robson já publicados no site, ligar a seção 6 às páginas de verificação existentes e padronizar as referências. Nenhum dado de avaliação foi gerado.
+
+**Introdução (10/11/2026).** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para redigir o parágrafo de introdução desta página a partir das seções já existentes, sem acrescentar dados novos. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

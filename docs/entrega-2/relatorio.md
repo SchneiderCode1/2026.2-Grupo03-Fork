@@ -25,8 +25,13 @@ Fonte: elaborado pelos autores (2026), com base nos históricos de versão, no r
 | 27/09/2026 | 2.0 | Toques finais e Revisão | Henrique Schneider | — |
 | 15/10/2026 | 3.0 | Reescrita do relatório como página do site: escopo, planejamento da etapa, artefatos, matriz de conformidade com a lista do Plano de Ensino, avaliação recebida e inspeção | Henrique Schneider | — |
 | 17/10/2026 | 3.1 | Retirada da matriz de conformidade e da seção de acompanhamento, vínculo com a página da avaliação da monitoria e revisão das referências | Henrique Schneider | — |
+| 10/11/2026 | 3.2 | Inclusão da introdução da página (detalhes na seção de uso de IA generativa) | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026). As versões 1.0 a 2.0 foram transcritas do relatório entregue (Grupo 03, 2026a, p. 17).
+
+## Introdução
+
+Esta página é o relatório do grupo da Entrega 2 (Perfil do Usuário, Aspectos Éticos e Análise de Tarefas), com vencimento em 27/09/2026 no Moodle. Ela identifica a entrega, indica o escopo e o planejamento da etapa, lista os artefatos produzidos e registra a avaliação recebida e a inspeção realizada.
 
 ## 1. Identificação
 
@@ -90,3 +95,5 @@ SILVA, Giovana Barbosa da. *Atividade avaliativa: IHC: Etapa 2: Grupo 3*. Brasí
 O relatório entregue tem a seção "Agradecimentos e Suportes Tecnológicos", que registra o uso de IA generativa (Grupo 03, 2026a, p. 17). As declarações por página estão na seção final de cada artefato.
 
 **Uso de IA generativa nesta página.** Em 15/10/2026 e 17/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para reescrever o relatório da Entrega 2 como página do site: extração do texto do PDF entregue (resumo e histórico de versões), montagem das Tabelas 1, 3 e 4 a partir dos históricos de versão, dos commits e do Plano de Ensino e resumo dos apontamentos da avaliação recebida. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+**Introdução (10/11/2026).** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para redigir o parágrafo de introdução desta página a partir das seções já existentes, sem acrescentar dados novos. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

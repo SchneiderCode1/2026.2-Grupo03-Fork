@@ -22,8 +22,13 @@ Fonte: elaborado pelos autores (2026), com base nos históricos de versão, nos 
 | 06/10/2026 | 1.0 | Relatório entregue no Moodle em PDF | Henrique Schneider | — |
 | 15/10/2026 | 2.0 | Reescrita do relatório como página do site: escopo, planejamento da etapa, artefatos, matriz de conformidade com a lista do Plano de Ensino após a refatoração e inspeção | Henrique Schneider | — |
 | 17/10/2026 | 2.1 | Inclusão da avaliação da monitoria e organização da página | Henrique Schneider | — |
+| 10/11/2026 | 2.2 | Inclusão da introdução da página (detalhes na seção de uso de IA generativa) | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026).
+
+## Introdução
+
+Esta página é o relatório do grupo da Entrega 3 (Princípios Gerais de Projeto, Metas de Usabilidade e Guia de Estilo), com vencimento em 06/10/2026 no Moodle. Ela identifica a entrega, indica o escopo e o planejamento da etapa, lista os artefatos produzidos e registra a inspeção realizada e a avaliação da monitoria.
 
 ## 1. Identificação
 
@@ -84,3 +89,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar esta página do relatório da Entrega 3 a partir das páginas publicadas, dos históricos de versão, dos commits, do relatório de inspeção do Grupo 07 e da avaliação da monitoria, e para resumir o resultado dessa avaliação. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+**Introdução (10/11/2026).** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para redigir o parágrafo de introdução desta página a partir das seções já existentes, sem acrescentar dados novos. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

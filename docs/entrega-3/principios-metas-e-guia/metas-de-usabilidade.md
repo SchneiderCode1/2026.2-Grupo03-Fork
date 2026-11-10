@@ -23,8 +23,13 @@ Fonte: elaborado pelos autores (2026).
 | 06/10/2026 | 1.1 | Redação das metas de usabilidade | João Vitor Tavares | Henrique Schneider |
 | 15/10/2026 | 1.2 | Padronização da estrutura (tabela de contribuição e histórico no início, seções numeradas), inclusão das páginas nas citações após conferência no livro, da seção de item de conteúdo e da seção de uso de IA | Henrique Schneider | — |
 | 17/10/2026 | 1.3 | Inclusão das fotos das fontes (Figuras 1 a 3), revisão das citações e organização da página | Henrique Schneider | — |
+| 10/11/2026 | 1.4 | Inclusão da introdução da página (detalhes na seção de uso de IA generativa) | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026).
+
+## Introdução
+
+Esta página apresenta as metas de usabilidade do projeto de redesign do portal do Detran-DF, artefato da Entrega 3. A seção 1 traz a fundamentação teórica e a seção 2 as metas definidas para o projeto, com a justificativa de cada uma.
 
 ## 1. Fundamentação teórica
 
@@ -85,3 +90,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar a página no modelo de artefato da disciplina (tabela de contribuição e histórico no início, seções numeradas), conferir no livro de Barbosa e Silva (2010) as páginas das duas citações e recortar as fotos dos trechos citados (Figuras 1 a 3). A fundamentação e as metas não foram alteradas. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+**Introdução (10/11/2026).** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para redigir o parágrafo de introdução desta página a partir das seções já existentes, sem acrescentar dados novos. A ferramenta não é autora do artefato e seu uso não exime os autores da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
