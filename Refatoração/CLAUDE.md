@@ -8,9 +8,10 @@ Estas instruções valem para toda sessão do Claude Code neste repositório. O 
 
 - **Site:** https://interacao-humano-computador.github.io/2026.2-Grupo03/ — MkDocs + Material for MkDocs. A navegação fica em `mkdocs.yml` e as páginas em `docs/`.
 - **Objeto do projeto:** Portal do Detran-DF. O processo de design é a Engenharia de Usabilidade de Mayhew, e o planejamento das avaliações segue o framework DECIDE.
-- **Equipe atual:** Alexandre Vilar Valadares Fonsêca, Eduardo Ribeiro Gomes da Silva, Gabriel Robson, Henrique Schneider Fernandes da Rosa e João Vitor Tavares de Sá Lima. Camile Barbosa Gonzaga de Oliveira consta apenas na Entrega 1: **pergunte** antes de alterar qualquer menção a ela.
+- **Equipe atual:** Alexandre Vilar Valadares Fonsêca, Gabriel Robson Nunes Neiva da Silva, Henrique Schneider Fernandes da Rosa e João Vitor Tavares de Sá Lima. Ex-integrantes: Camile Barbosa Gonzaga de Oliveira (só Entrega 1) e Eduardo Ribeiro Gomes da Silva (Entregas 1 e 2). **Pergunte** antes de alterar qualquer menção aos ex-integrantes.
 - **Material de referência (fora do repositório):** a pasta local `IHC/` do Henrique tem o Plano de Ensino, os livros e os modelos citados aqui. Ver `IHC/LEIA-ME - Estrutura de Arquivos.md`. Se a pasta não estiver acessível, **não** invente o conteúdo dela: marque `[VERIFICAR]`.
-- **Estado das entregas em 15/10/2026:** Entregas 1–4 entregues (a apresentação da 4 é em 15/10). A Entrega 5 vence em 25/10, a 6 em 03/11, a 7 em 15/11, a 8 em 22/11 e o Projeto Final em 30/11 (Plano de Ensino, pp. 4–6).
+- **Estado das entregas em 10/11/2026:** Entregas 1–6 entregues. A Entrega 7 (relato dos resultados do protótipo de alta fidelidade) vence em 15/11, com inspeção do Grupo +1 em 16/11 e apresentação em 17/11; a 8 vence em 22/11 e o Projeto Final em 30/11 (Plano de Ensino, pp. 4–6).
+- **Branch e repositório:** o site é publicado da `main` do repositório `Interacao-Humano-Computador/2026.2-Grupo03`. O Henrique também tem o fork `SchneiderCode1/2026.2-Grupo03-Fork`.
 
 ---
 
@@ -21,10 +22,10 @@ Estas instruções valem para toda sessão do Claude Code neste repositório. O 
    Motivo: “Qualquer atividade plagiada, será atribuída a nota zero ao estudante e/ou grupo” (Plano de Ensino, p. 2).
 2. **Não altere autoria.** Não mude quem é autor ou revisor de um artefato, não apague linhas de histórico de versão nem de tabelas de contribuição. O histórico é só de acréscimo. “Cada artefato produzido pelo grupo e postado na Wiki deve ser identificado pelo(s) autor(es)” (Plano de Ensino, p. 2).
 3. **Não reescreva o texto dos integrantes.** Você pode mudar formatação, estrutura, legendas, citações e referências, e corrigir ortografia. Mudança de conteúdo, argumento ou conclusão vai como sugestão no relatório (seção 9), não como edição.
-4. **Declare o uso de IA.** Toda página que você editar ganha (ou atualiza) a seção “Agradecimentos e uso de IA generativa”, dizendo **o que** foi feito com o Claude e **onde**. A disciplina adota o Código de Conduta da SBC: a utilização de ferramentas de IA generativa “deve ser declarada explicitamente no trabalho” e a declaração “deve listar as ferramentas e descrever onde foram empregadas” (Plano de Ensino, p. 3).
+4. **Declare o uso de IA.** Esta é a única forma de registro do uso do Claude: na página e no relatório, nunca como autor no histórico de versões nem no Git. Toda página que você editar ganha (ou atualiza) a seção “Agradecimentos e uso de IA generativa”, dizendo **o que** foi feito com o Claude e **onde**. A disciplina adota o Código de Conduta da SBC: a utilização de ferramentas de IA generativa “deve ser declarada explicitamente no trabalho” e a declaração “deve listar as ferramentas e descrever onde foram empregadas” (Plano de Ensino, p. 3).
 5. **Não exponha a matrícula** de nenhum integrante. A página da equipe deve ter foto e nome, “sem matrícula” (Plano de Ensino, p. 8, item 1).
 6. **Não quebre URLs publicadas.** Os links do site já estão em PDFs entregues no Moodle e em inspeções de outros grupos. Para renomear ou mover uma página, use o plugin `mkdocs-redirects` com o caminho antigo → novo, e **peça aprovação** antes.
-7. **Git.** Trabalhe na branch `refatoracao/padrao-disciplina`, nunca direto na `main`, e não use `push --force`. Faça um commit por seção ou página, com mensagem em português (ex.: `docs(guia-estilo): padroniza legendas e referências ABNT`). A disciplina cobra nomes identificáveis no Git (Plano de Ensino, p. 3): mantenha a linha `Co-Authored-By` do Claude nos commits.
+7. **Git.** Trabalhe na branch `refatoracao/padrao-disciplina`, nunca direto na `main`, e não use `push --force`. Faça um commit por seção ou página, com mensagem em português (ex.: `docs(guia-estilo): padroniza legendas e referências ABNT`). **Os commits ficam na conta do Henrique**: autor e committer `Henrique Schneider Fernandes da Rosa <165057013+SchneiderCode1@users.noreply.github.com>` (e-mail *noreply* do GitHub, para não expor o e-mail pessoal num repositório público). **Não inclua o Claude como autor nem como coautor**: nada de `Co-Authored-By`, `Claude-Session` ou assinatura "Generated with Claude Code" em commits e PRs. Pela regra da SBC adotada no Plano de Ensino (p. 3), a ferramenta não é autora; o uso dela é declarado no conteúdo (regra 4) e no `REFATORACAO-RELATORIO.md`, não no Git. Faça os commits só depois de terminar o lote pedido e validar o build.
 8. **Peça confirmação antes de:** criar ou remover páginas da navegação, mudar `mkdocs.yml`, mexer em mais de ~10 arquivos de uma vez, ou fazer qualquer coisa que dependa de uma decisão do grupo (por exemplo, a situação da Camile ou qual processo de design fica oficial).
 
 ---
@@ -34,7 +35,7 @@ Estas instruções valem para toda sessão do Claude Code neste repositório. O 
 1. **Inventário.** Leia `mkdocs.yml` e liste todas as páginas de `docs/`, indicando para cada uma: entrega, autor(es) e quais elementos da seção 3 ela tem.
 2. **Auditoria antes de editar.** Gere `REFATORACAO-RELATORIO.md` na raiz do repositório, **fora** de `docs/` e da navegação. Ele deve ter a matriz *item da lista de verificação × página × situação*, usando as respostas que a disciplina pede: **Conforme / Não conforme / Não se aplica** (enunciados das listas de verificação no Moodle). Mostre o relatório ao usuário e espere o “ok”.
 3. **Correções mecânicas, página a página:** estrutura, histórico, legendas, citações, referências, seção de IA, links e imagens quebrados.
-4. **Lacunas de conteúdo:** não preencha. Crie a seção com o marcador `[VERIFICAR]` e liste a lacuna no relatório como pendência humana, com o responsável sugerido pela seção 7.
+4. **Lacunas de conteúdo:** não preencha. **Desde 17/10/2026 o site publicado não mostra marcadores `[VERIFICAR]`:** o que falta sai da página (célula vazia vira "—") e é registrado em `pendencias/<entrega>.md`, com página, o que falta e responsável sugerido (seção 7). Os marcadores só aparecem nos modelos de `modelos/` e nos rascunhos de `pendencias/paginas-fora-do-site/`.
 5. **Validação:** rode `mkdocs build --strict` (sem nenhum aviso), verifique links internos e imagens, e confira o tema claro/escuro.
 6. **Fechamento:** atualize o relatório com o que mudou, o que falta e quem precisa agir. Abra um PR com esse resumo.
 
@@ -101,7 +102,8 @@ Adaptado dos itens “Geral” da lista de verificação de qualidade de artefat
 - A descrição começa com verbo no particípio ou substantivo de ação (“Criação…”, “Inclusão…”, “Padronização…”).
 - **Revisor com nome próprio**, nunca “Integrantes do grupo”, “-” ou “A definir”. Se ainda não existe revisor, use `[VERIFICAR: revisor]`. O revisor não pode ser o autor da mesma versão. Esse foi um item da própria lista do grupo na inspeção da Entrega 3: “nenhum integrante seja revisor do próprio trabalho no mesmo ciclo” (Relatório de Inspeção Entrega 3, item 12).
 - Toda edição sua acrescenta uma linha. Exemplo:
-  `| 16/10/2026 | 2.1 | Padronização de legendas, citações e referências (ABNT) e inclusão da seção de uso de IA | Claude (IA generativa), sob supervisão de <integrante que pediu> | [VERIFICAR: revisor] |`
+  `| 16/10/2026 | 2.1 | Padronização de legendas, citações e referências (ABNT) e inclusão da seção de uso de IA | Henrique Schneider | — |`
+  O autor da linha é o integrante que pediu a mudança (a IA não é autora; Plano de Ensino, p. 3). Revisor ainda não definido fica "—" no site e vai para `pendencias/`.
 
 ---
 
@@ -285,8 +287,32 @@ Lista feita por leitura automática do site publicado. Pode estar desatualizada.
 
 ---
 
+## 11. Padrões adotados dos sites de outros grupos (10/11/2026)
+
+O Henrique pediu para basear o site nos pontos positivos dos Grupos 05, 06 e 07 (https://interacao-humano-computador.github.io/2026.2-Grupo05/, .../2026.2-Grupo06/ e .../2026.2-Grupo07/). Mantenha estes padrões em todas as páginas novas. Não copie código nem texto desses grupos: reimplemente.
+
+1. **Acessibilidade no cabeçalho** (Grupos 05 e 06): barra própria em `docs/javascripts/acessibilidade.js` (A−, A+, A, AC), estilos no fim de `docs/stylesheets/extra.css`. Toda página nova deve continuar legível com alto contraste ligado: confira com Playwright.
+2. **Visão geral por entrega** (Grupo 06): cada aba começa em `docs/entrega-N/index.md` (`navigation.indexes`), com tabela de contribuição, histórico, introdução com o escopo literal do Plano, datas, tabela das páginas do grupo e tabela do material de cada integrante. Ao publicar páginas novas, atualize a tabela da visão geral.
+3. **Mesma estrutura e mesmos nomes de arquivo para todos os integrantes** (Grupo 06): `docs/entrega-N/integrantes/<slug>/` com `index.md` e os artefatos com o mesmo nome em todos (ex.: `prototipo-papel.md`, `planejamento-alta-fidelidade.md`, `video-avaliacao.md`). No menu, "Material dos integrantes" sempre em ordem alfabética: Alexandre Vilar, Gabriel Robson, Henrique Schneider, João Vitor.
+4. **Páginas do grupo em todas as entregas**, na ordem: Visão geral, Relatório da entrega (resumo), Relatório do grupo (transcrição do Google Docs), Contribuições, Verificação (lista e inspeção do Grupo +1), Material dos integrantes.
+5. **Vídeos** (Grupos 05 e 06): toda gravação vai para a Tabela 3, 4 ou 5 de `docs/apresentacoes.md` e as apresentações também para a seção 5, em bloco recolhível com `youtube-nocookie` (classe `g03-video`).
+6. **Introdução em toda página:** se a primeira seção já for de contexto, objetivo ou escopo, use "1. Introdução: <título original>" e acrescente uma frase de apresentação; caso contrário, inclua "## Introdução" antes das seções numeradas. Não renumere seções nem tabelas existentes (há remissões a "seção N" e "Tabela N" dentro e fora das páginas).
+
+## 12. Organização da próxima entrega
+
+Ao terminar uma entrega, prepare a seguinte, sem inventar conteúdo:
+
+1. Crie `docs/entrega-N/index.md` (visão geral) com escopo literal e datas do Plano de Ensino, cronograma de cada integrante transcrito dos planejamentos da entrega anterior (sem alterar datas), estrutura exigida do artefato com a fonte e o roteiro de publicação. Inclua só essa página no menu.
+2. Crie `modelos/entrega-N/` (fora de `docs/`) com os modelos da seção 3 para as páginas do grupo, a inspeção do Grupo +1 e as páginas de cada integrante, com `[VERIFICAR]` em tudo que depende de dado real, e um `README.md` com o destino de cada modelo e o trecho do `mkdocs.yml`.
+3. Crie `pendencias/entrega-N.md` com prazos (Moodle, inspeção, apresentação, atividades individuais) e responsáveis sugeridos.
+4. Quando um integrante publicar a página, ela entra no menu e na tabela da visão geral; os marcadores saem e o que faltar vai para `pendencias/`.
+5. Feche a entrega anterior: publique a página-resumo, o relatório do grupo (transcrito do Google Docs, sem reescrever) e as contribuições; passe o normalizador de formato nas páginas individuais (seção 11) e registre tudo no `REFATORACAO-RELATORIO.md`.
+
+Estado em 10/11/2026: a Entrega 7 está organizada (`docs/entrega-7/index.md`, `modelos/entrega-7/`, `pendencias/entrega-7.md`); a Entrega 8 (verificação dos artefatos, 22/11) ainda não.
+
 ## Histórico de versões
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 |---|---|---|---|---|
 | 15/10/2026 | 1.0 | Criação das instruções a partir do Plano de Ensino, de Barbosa e Silva (2010), do guia ABNT da PUC Minas (2025), do modelo de ata do MCTIC, da checklist de qualidade de artefatos e de uma leitura do site publicado | Claude (IA generativa, Anthropic), a pedido de Henrique Schneider | [VERIFICAR: revisor] |
+| 10/11/2026 | 2.0 | Equipe e estado das entregas atualizados; commits na conta do Henrique sem coautoria do Claude (regra 7); autoria das linhas de histórico (seção 4); marcadores fora do site (seção 2); seções 11 (padrões dos Grupos 05, 06 e 07) e 12 (organização da próxima entrega) | Henrique Schneider | — |

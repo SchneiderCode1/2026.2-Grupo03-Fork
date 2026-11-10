@@ -313,9 +313,67 @@ Pedidos do Henrique em 15/10/2026, depois da primeira rodada: (1) "uma aba com a
 - Links locais no HTML gerado: 0 quebrados (fora a página 404, que usa caminhos absolutos do site publicado).
 - Conferência visual no Chromium, nos temas claro e escuro: visão geral e página de integrante (abas por entrega), Listas da Entrega 2 e Atas. As nove abas cabem na barra a 1280 px e a 1440 px.
 
+## 11. Terceira rodada (10/11/2026): Entregas 5 e 6, padrão comum e organização da Entrega 7
+
+Pedido de Henrique Schneider: tomar como base os pontos positivos dos sites dos Grupos 05, 06 e 07, completar o que falta das entregas anteriores, deixar o material de todos os integrantes no mesmo formato e organizar a Entrega 7. Branch `refatoracao/padrao-disciplina`.
+
+### 11.1 Pontos positivos dos outros grupos e o que foi adotado
+
+| Grupo | Ponto positivo observado | Adoção no site do Grupo 03 |
+| --- | --- | --- |
+| 05 e 06 | Botões de acessibilidade no cabeçalho (tamanho do texto e alto contraste) | Barra própria em `docs/javascripts/acessibilidade.js` (A−, A+, A, AC), com as escolhas salvas no navegador; o código foi escrito do zero |
+| 06 | Página de abertura em cada etapa, com tabela dos trabalhos de cada integrante e sua situação | `docs/entrega-N/index.md` em todas as entregas (1 a 7), gerada da navegação, com `navigation.indexes` |
+| 06 | Páginas individuais com a mesma estrutura e os mesmos nomes em todos os integrantes | Padronização das páginas individuais das Entregas 5 e 6 (seção 11.2) e modelos da Entrega 7 com os mesmos nomes de arquivo |
+| 05 e 06 | Vídeos incorporados na própria página, em bloco recolhível | Seção 5 de `docs/apresentacoes.md` |
+| 05 | Tabela única com todas as apresentações por etapa | Linha da Entrega 6 na Tabela 3 de `docs/apresentacoes.md` |
+| 06 | Ordem fixa dos integrantes no menu | Ordem alfabética (Alexandre, Gabriel, Henrique, João Vitor) em "Material dos integrantes" de todas as entregas |
+
+Pontos não adotados: o plugin de ampliação de imagens (glightbox) do Grupo 06, porque exige instalar um plugin novo no deploy; os avatares do GitHub na página da equipe (Grupo 07), porque a página inicial já tem fotos.
+
+### 11.2 Padronização das páginas individuais (Entregas 5 e 6)
+
+Script aplicado às 46 páginas de `docs/entrega-5/integrantes/` e `docs/entrega-6/integrantes/`, sem mudar o texto dos autores:
+
+- tabela de contribuição e histórico de versões em seções próprias, logo depois do título (as 9 páginas de Gabriel Robson tinham o histórico solto no topo ou não tinham as duas tabelas; a contribuição foi reconstituída pelo histórico de commits);
+- revisores "-" e "Pendente" trocados por "—";
+- introdução: quando a primeira seção era de contexto, objetivo ou escopo, ela passou a "1. Introdução: …", com uma frase de apresentação; nas demais páginas, entrou uma seção "Introdução" antes das seções numeradas, sem renumerar (para não quebrar remissões a "seção N");
+- legendas acima e fonte abaixo nas tabelas e figuras das páginas que não tinham nenhuma legenda; páginas com legendas existentes não foram renumeradas;
+- referências: seção "Referências bibliográficas", ordem alfabética, sem marcadores, título em itálico, Barbosa et al. (2021) com local e editora, e inclusão das obras citadas no texto que faltavam na lista;
+- "Nota metodológica" das páginas de Gabriel saiu das referências e virou a seção "Limitações";
+- seção "Agradecimentos e uso de IA generativa" em todas as páginas, com a declaração desta padronização; uma linha nova no histórico de cada página.
+
+### 11.3 Conteúdo completado das entregas anteriores
+
+| Página | O que foi feito | Fonte |
+| --- | --- | --- |
+| `docs/entrega-6/relatorio-do-grupo.md` (nova) | Transcrição do relatório do grupo da Entrega 6 (Google Docs, v1.8), com as 23 figuras (recortes das fontes e fotos do protótipo de papel de Henrique) | Google Docs do grupo; pasta local `Entrega 6/` |
+| `docs/entrega-6/relatorio.md` (nova) | Página-resumo: datas, escopo, artefatos e gravações | Plano de Ensino; páginas individuais |
+| `docs/entrega-6/contribuicoes.md` (nova) | Matriz de contribuição | Páginas individuais e histórico do relatório |
+| `docs/entrega-5/relatorio.md` | Material de Gabriel nas Tabelas 1 e 4; seção 6 ligada à lista de verificação e à inspeção do Grupo 08 | Páginas já publicadas |
+| `docs/entrega-5/contribuicoes.md` | Seção de IA, que estava no meio da página, movida para o fim; referências | — |
+| `docs/apresentacoes.md` | Vídeos da Entrega 6 e players incorporados | Páginas individuais |
+| `docs/entrega-1/index.md` a `docs/entrega-6/index.md` (novas) | Visão geral de cada entrega | Navegação e Plano de Ensino |
+
+Os campos do relatório da Entrega 6 que dependem de dados dos integrantes não foram preenchidos: saíram do site e estão em `pendencias/entregas-5-e-6.md`.
+
+### 11.4 Organização da Entrega 7
+
+- `docs/entrega-7/index.md`: escopo, datas, cronograma de cada integrante transcrito dos planejamentos da Entrega 6, estrutura do relato (Barbosa; Silva, 2010, p. 343) e roteiro de publicação.
+- `modelos/entrega-7/`: modelos com marcadores `[VERIFICAR]` para o relatório, o relatório do grupo, as contribuições, a inspeção do Grupo +1 e as quatro páginas de cada integrante. Ficam fora de `docs/` para que nenhum marcador apareça no site.
+- `pendencias/entrega-7.md`: o que falta, com prazo e responsável sugerido.
+
+### 11.5 Autoria e commits
+
+A pedido de Henrique Schneider, os commits desta rodada estão no nome dele e não têm a linha `Co-Authored-By` do Claude; o `Refatoração/CLAUDE.md` foi atualizado com essa regra. O uso da ferramenta continua declarado na seção "Agradecimentos e uso de IA generativa" de cada página alterada e neste relatório, como pede o Plano de Ensino (p. 3).
+
+### 11.6 Validação
+
+`mkdocs build --strict` sem avisos, também com `validation.anchors` e `absolute_links` em `warn` (build de conferência sem o plugin `mkdocs-redirects`, que não pôde ser instalado no ambiente). Nenhum `href` ou `src` local quebrado no HTML gerado. Conferência visual no Chrome (Playwright) da página inicial, do Relatório da Entrega 5 e do relatório do grupo da Entrega 6, com o alto contraste ligado e desligado.
+
 ## Histórico de versões
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 15/10/2026 | 1.0 | Criação do relatório da refatoração | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | [VERIFICAR: revisor] |
 | 15/10/2026 | 1.1 | Inclusão da seção 10 (abas Listas de Verificação, Atas e Integrantes), da nota sobre os números depois da segunda rodada e da atualização do alerta 3 | Henrique Schneider (solicitante), com apoio do Claude (IA generativa) | [VERIFICAR: revisor] |
+| 10/11/2026 | 2.0 | Inclusão da seção 11 (terceira rodada: Entregas 5 e 6, padrão comum, pontos positivos dos Grupos 05, 06 e 07 e organização da Entrega 7) | Henrique Schneider | — |

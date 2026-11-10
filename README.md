@@ -22,6 +22,9 @@ Documentação acadêmica do projeto de **Interação Humano-Computador (IHC)** 
 │   ├── entrega-2/                       ← Entrega 2: relatório, perfil-e-tarefas/, contribuições, verificacao/, integrantes/<nome>/
 │   ├── entrega-3/                       ← Entrega 3: relatório, principios-metas-e-guia/, contribuições, verificacao/, integrantes/<nome>/
 │   ├── entrega-4/                       ← Entrega 4: relatório, planejamento-da-avaliacao/, contribuições, verificacao/, integrantes/<nome>/
+│   ├── entrega-5/                       ← Entrega 5: relatório, relatório do grupo, contribuições, verificacao/, integrantes/<nome>/
+│   ├── entrega-6/                       ← Entrega 6: relatório, relatório do grupo, contribuições, integrantes/<nome>/
+│   ├── entrega-7/                       ← Entrega 7: visão geral (os artefatos entram à medida que são publicados)
 │   ├── trabalhos-avaliativos/           ← trabalhos individuais de cada integrante (listas, exercícios, análises próprias)
 │   ├── listas-verificacao/              ← visão geral das listas, autoavaliação e lista do projeto final
 │   ├── integrantes/                     ← entregas anteriores e próximas de cada integrante; ex-integrantes
@@ -29,7 +32,9 @@ Documentação acadêmica do projeto de **Interação Humano-Computador (IHC)** 
 │   ├── relatorios/                      ← visão geral dos relatórios das entregas
 │   ├── disciplina/                      ← Plano de Ensino
 │   ├── apresentacoes.md                 ← vídeos das apresentações, inspeções e reuniões
+│   ├── javascripts/acessibilidade.js    ← barra de acessibilidade (tamanho do texto e alto contraste)
 │   └── assets/                          ← imagens, PDFs entregues e fotos de referências
+├── modelos/                             ← modelos de página das próximas entregas, para copiar para docs/ (fora do site)
 ├── pendencias/                          ← o que falta completar, por entrega e por integrante (fora do site)
 ├── Refatoração/                         ← material de referência da disciplina (fora do site)
 ├── REFATORACAO-RELATORIO.md             ← relatório da refatoração de 15/10/2026 (fora do site)
@@ -38,7 +43,7 @@ Documentação acadêmica do projeto de **Interação Humano-Computador (IHC)** 
 └── README.md
 ```
 
-Em cada entrega, a pasta `integrantes/` tem uma pasta por integrante atual (`alexandre-vilar`, `gabriel-robson`, `henrique-schneider`, `joao-vitor`) com o material dele naquela entrega. Os endereços antigos das páginas redirecionam para os novos (`mkdocs-redirects`, no `mkdocs.yml`).
+Cada aba de entrega abre numa página de visão geral (`docs/entrega-N/index.md`), com as datas do Plano de Ensino, os artefatos do grupo e o material de cada integrante. Em cada entrega, a pasta `integrantes/` tem uma pasta por integrante atual (`alexandre-vilar`, `gabriel-robson`, `henrique-schneider`, `joao-vitor`) com o material dele naquela entrega. Os endereços antigos das páginas redirecionam para os novos (`mkdocs-redirects`, no `mkdocs.yml`).
 
 Cada página de artefato segue o modelo da disciplina: tabela de contribuição, histórico de versões, introdução, conteúdo, referências e agradecimentos com o uso de IA generativa. O que ainda falta completar não aparece no site: está listado nos arquivos da pasta [`pendencias/`](pendencias/README.md).
 
