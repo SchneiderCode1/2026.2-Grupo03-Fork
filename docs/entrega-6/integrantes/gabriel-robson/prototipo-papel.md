@@ -2,7 +2,30 @@
 
 **Autor:** Gabriel Robson Nunes Neiva da Silva. **Situação:** protótipo de papel documentado a partir das fotografias originais do autor.
 
-## 1. Objetivo
+## Tabela de contribuição
+
+**Tabela 1 – Contribuição no artefato Protótipo de papel – Renovação da CNH**
+
+| Integrante | Contribuição | Atividade (link) | Gravação (link) |
+| --- | --- | --- | --- |
+| Gabriel Robson Nunes Neiva da Silva | Elaboração e publicação do artefato | [Commits da página](https://github.com/Interacao-Humano-Computador/2026.2-Grupo03/commits/main/docs/entrega-6/integrantes/gabriel-robson/prototipo-papel.md) | [Gravação](video-avaliacao.md) |
+
+Fonte: histórico de commits do repositório (2026).
+
+## Histórico de versões
+
+**Tabela 2 – Histórico de versões do artefato Protótipo de papel – Renovação da CNH**
+
+| Data | Versão | Descrição | Autor(es) | Revisor(es) |
+| --- | --- | --- | --- | --- |
+| 03/11/2026 | 1.0 | Publicação do artefato (registro reconstituído do histórico de commits) | Gabriel Robson | — |
+| 10/11/2026 | 1.1 | Padronização do formato no modelo do grupo (detalhes na seção de uso de IA generativa) | Henrique Schneider | — |
+
+Fonte: elaborado pelos autores (2026).
+
+## 1. Introdução: objetivo
+
+Esta página reúne o material **Protótipo de papel – Renovação da CNH**, elaborado por Gabriel Robson na Entrega 6 do projeto do Grupo 03 sobre o Portal do Detran-DF.
 
 Este protótipo apresenta uma proposta de fluxo para orientar o cidadão no processo de renovação da Carteira Nacional de Habilitação (CNH) no contexto do Detran-DF. As fotografias originais dos desenhos feitos à mão foram organizadas em sete etapas. As legendas e a ordem estão documentadas abaixo; os arquivos de imagem ainda precisam ser adicionados ao repositório para aparecerem nesta página.
 
@@ -77,11 +100,16 @@ A última fotografia registra novamente a lista de categorias de atendimento, pe
 
 As imagens são registros de um protótipo acadêmico de baixa fidelidade, feito em papel. Os nomes de serviços, categorias, datas e horários devem ser validados com os canais oficiais do Detran-DF. O desenho não consulta disponibilidade real, não registra dados pessoais e não efetua agendamento oficial.
 
-## Referências
+## Referências bibliográficas
 
-- BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010. Capítulos 9 e 10.
-- DEPARTAMENTO DE TRÂNSITO DO DISTRITO FEDERAL (DETRAN-DF). Portal institucional. Disponível em: https://www.detran.df.gov.br/. Acesso em: 3 nov. 2026.
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.
 
-## Uso de IA generativa
+DEPARTAMENTO DE TRÂNSITO DO DISTRITO FEDERAL. *Portal do Detran-DF*. Brasília, DF, 2026. Disponível em: https://www.detran.df.gov.br/. Acesso em: 3 nov. 2026.
+
+SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1. Brasília: Universidade de Brasília, 2026.
+
+## Agradecimentos e uso de IA generativa
 
 O ChatGPT (OpenAI) foi utilizado como apoio para organizar a sequência das fotografias e redigir as legendas, a pedido do autor. As fotografias são os registros originais fornecidos por Gabriel Robson; não foram geradas ou alteradas por IA. O autor deve revisar as descrições e validar a correspondência entre cada imagem e a etapa representada.
+
+**Padronização do formato (10/11/2026).** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar o formato desta página no modelo adotado pelo grupo: inclusão da tabela de contribuição (a partir do histórico de commits); inclusão do histórico de versões (versão 1.0 reconstituída dos commits); seção de referências renomeada para "Referências bibliográficas"; referências no formato da NBR 6023 (sem marcadores, ordem alfabética); primeira seção identificada como introdução, com parágrafo de apresentação do artefato; seção de IA renomeada para "Agradecimentos e uso de IA generativa". O conteúdo do autor não foi alterado. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

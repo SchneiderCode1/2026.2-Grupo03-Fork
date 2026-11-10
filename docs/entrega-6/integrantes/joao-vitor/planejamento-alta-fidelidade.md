@@ -16,11 +16,14 @@ Fonte: material elaborado pelo responsável (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 02/11/2026 | 1.0 | Publicação do planejamento da avaliação do protótipo de alta fidelidade | João Vitor Tavares de Sá Lima | - |
+| 02/11/2026 | 1.0 | Publicação do planejamento da avaliação do protótipo de alta fidelidade | João Vitor Tavares de Sá Lima | — |
+| 10/11/2026 | 1.1 | Padronização do formato no modelo do grupo (detalhes na seção de uso de IA generativa) | Henrique Schneider | — |
 
 Fonte: registro desta versão (2026).
 
-## 1. Escopo
+## 1. Introdução: escopo
+
+Esta página reúne o material **Planejamento da Avaliação do Protótipo de Alta Fidelidade – João Vitor**, elaborado por João Vitor na Entrega 6 do projeto do Grupo 03 sobre o Portal do Detran-DF.
 
 O protótipo de alta fidelidade representará o mesmo fluxo desenvolvido no storyboard, na HTA revisada e no protótipo de papel: o **agendamento e gerenciamento da biometria no Portal Detran-DF**.
 
@@ -73,3 +76,11 @@ Antes das sessões definitivas, está previsto um teste do fluxo e do procedimen
 Fonte: planejamento individual registrado para a Entrega 6 (2026).
 
 [Voltar à visão geral](index.md).
+
+## Referências bibliográficas
+
+SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1. Brasília: Universidade de Brasília, 2026.
+
+## Agradecimentos e uso de IA generativa
+
+**Padronização do formato (10/11/2026).** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar o formato desta página no modelo adotado pelo grupo: revisores genéricos ("-", "Pendente") trocados por "—"; inclusão da seção de referências bibliográficas; primeira seção identificada como introdução, com parágrafo de apresentação do artefato; inclusão da seção "Agradecimentos e uso de IA generativa". O conteúdo do autor não foi alterado. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

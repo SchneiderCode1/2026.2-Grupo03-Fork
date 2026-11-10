@@ -1,6 +1,6 @@
 # Roteiro da Sessão do Protótipo de Papel – Henrique Schneider
 
-## Quadro de contribuição
+## Tabela de contribuição
 
 **Quadro 1 – Contribuição no artefato Roteiro da Sessão do Protótipo de Papel – Henrique Schneider**
 
@@ -20,6 +20,7 @@ Fonte: elaborado pelo autor (2026).
 | 02/11/2026 | 1.1    | Atualização do cronograma (Tabela 3): a janela de 28/10 a 30/10/2026 passou sem as sessões, e as novas datas ficam a definir pelo autor                                                                                                                                                         | Claude (IA generativa), a pedido de Henrique Schneider Fernandes da Rosa | João Vitor Tavares de Sá Lima |
 | 02/11/2026 | 1.2 | Publicação da versão em Markdown no site do grupo, com as figuras e o PDF para download | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
 | 03/11/2026 | 1.3 | Registro da execução: teste-piloto e Sessão 1 (P5) em 03/11/2026, com links das gravações; Tabela 3 com as datas realizadas; papéis, recrutamento e ética ajustados ao que ocorreu; limitações; Apêndices C e D preenchidos com os problemas PC01, PC02 e PN01 a PN04 | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
+| 10/11/2026 | 1.4 | Padronização do formato no modelo do grupo (detalhes na seção de uso de IA generativa) | Henrique Schneider | — |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -314,7 +315,7 @@ Preenchido ao final da Sessão 1, a única realizada. A prioridade combina a sev
 
 Fonte: elaborado pelo autor (2026), com base em Barbosa e Silva (2010, cap. 10, seç. 10.2.3, pp. 361–362).
 
-## Referências
+## Referências bibliográficas
 
 BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.
 
@@ -341,3 +342,5 @@ Em 02/11/2026, também a pedido do autor, o Claude foi usado para converter este
 Em 03/11/2026, a pedido do autor, o Claude foi usado para consultar a transcrição e a gravação da Sessão 1, redigir os Apêndices C e D e o registro da execução a partir dessa gravação e das informações dadas pelo autor, e atualizar esta página. Os fatos da sessão (datas, horários, papéis, ausência de observador, tarefas executadas e participante) foram informados pelo autor ou conferidos na gravação; nenhum dado foi inventado.
 
 A versão em PDF deste artefato está disponível para download: [Roteiro da Sessão do Protótipo de Papel (PDF)](arquivos/roteiro-sessao-prototipo-papel.pdf).
+
+**Padronização do formato (10/11/2026).** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar o formato desta página no modelo adotado pelo grupo: padronização do título da tabela de contribuição; seção de referências renomeada para "Referências bibliográficas". O conteúdo do autor não foi alterado. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

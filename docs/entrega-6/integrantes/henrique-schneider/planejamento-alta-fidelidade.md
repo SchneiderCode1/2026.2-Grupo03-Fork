@@ -1,6 +1,6 @@
 # Planejamento do Teste de Usabilidade – Henrique Schneider
 
-## Quadro de contribuição
+## Tabela de contribuição
 
 **Quadro 1 – Contribuição no artefato Planejamento do Teste de Usabilidade – Henrique Schneider**
 
@@ -19,6 +19,7 @@ Fonte: elaborado pelo autor (2026).
 | 27/10/2026 | 1.0    | Criação do roteiro: método, questões e medidas, valores-alvo propostos, participantes e logística, ética, teste-piloto, roteiro da sessão e apêndices (questionário pré-teste, cartões de cenário, folha de medição, entrevista pós-teste e consolidação), a partir do capítulo 2 do relatório da Entrega 6 | Claude (IA generativa), a pedido de Henrique Schneider Fernandes da Rosa | João Vitor Tavares de Sá Lima |
 | 02/11/2026 | 1.1 | Publicação da versão em Markdown no site do grupo, com as figuras e o PDF para download | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
 | 03/11/2026 | 1.2 | Novo cronograma (Tabela 4): construção em 07 e 08/11, piloto em 08/11, sessões de 09 a 11/11, consolidação e relato até 15/11; número de participantes e observador definidos; piloto passa a considerar a experiência do piloto do protótipo de papel | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
+| 10/11/2026 | 1.3 | Padronização do formato no modelo do grupo (detalhes na seção de uso de IA generativa) | Henrique Schneider | — |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -328,7 +329,7 @@ A entrevista coleta a opinião e os sentimentos do participante sobre a experiê
 
 Fonte: elaborado pelo autor (2026), com os campos de Barbosa e Silva (2010, cap. 10, seç. 10.2.1, p. 343) e a escala de severidade de Nielsen (1994 apud Barbosa; Silva, 2010, p. 320).
 
-## Referências
+## Referências bibliográficas
 
 BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.
 
@@ -344,9 +345,9 @@ NIELSEN, Jakob. Heuristic evaluation. In: NIELSEN, Jakob; MACK, Robert L. (ed.).
 
 NIELSEN, Jakob. Why you only need to test with 5 users. *Alertbox*, 2000. Consulta indireta por Barbosa e Silva (2010).
 
-ROSA, Henrique Schneider Fernandes da. *Especificação do protótipo de alta fidelidade*: agendamento da prova teórica com reserva de horário. Versão 1.0. Brasília: Universidade de Brasília, 2026.
-
 ROSA, Henrique Schneider Fernandes da. *Análise Hierárquica de Tarefas (HTA)*: agendar a prova teórica com reserva de horário. Versão 1.2. Brasília: Universidade de Brasília, 2026.
+
+ROSA, Henrique Schneider Fernandes da. *Especificação do protótipo de alta fidelidade*: agendamento da prova teórica com reserva de horário. Versão 1.0. Brasília: Universidade de Brasília, 2026.
 
 RUBIN, J. *Handbook of usability testing*. New York: John Wiley & Sons, 1994. Consulta indireta por Barbosa e Silva (2010).
 
@@ -361,3 +362,5 @@ Conforme o Código de Conduta da SBC adotado no Plano de Ensino (Sales, 2026, p.
 Em 02/11/2026, também a pedido do autor, o Claude foi usado para converter este documento em página do site, e em 03/11/2026, para atualizar o calendário e os papéis.
 
 A versão em PDF deste artefato está disponível para download: [Planejamento do Teste de Usabilidade (PDF)](arquivos/roteiro-teste-usabilidade-alta-fidelidade.pdf).
+
+**Padronização do formato (10/11/2026).** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar o formato desta página no modelo adotado pelo grupo: padronização do título da tabela de contribuição; seção de referências renomeada para "Referências bibliográficas". O conteúdo do autor não foi alterado. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

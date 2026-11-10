@@ -16,7 +16,8 @@ Fonte: materiais elaborados pelo responsável (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 02/11/2026 | 1.0 | Criação e organização das páginas individuais da Entrega 6 | João Vitor Tavares de Sá Lima | - |
+| 02/11/2026 | 1.0 | Criação e organização das páginas individuais da Entrega 6 | João Vitor Tavares de Sá Lima | — |
+| 10/11/2026 | 1.1 | Padronização do formato no modelo do grupo (detalhes na seção de uso de IA generativa) | Henrique Schneider | — |
 
 Fonte: registro desta versão (2026).
 
@@ -48,6 +49,12 @@ O teste-piloto e a sessão definitiva ainda não foram registrados nesta página
 
 O relato dos resultados será produzido somente após a execução da avaliação, por isso não há uma aba de relatos nesta versão.
 
+## Referências bibliográficas
+
+SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1. Brasília: Universidade de Brasília, 2026.
+
 ## Agradecimentos e uso de IA generativa
 
 Em 02/11/2026, o ChatGPT (OpenAI) foi utilizado, a pedido de João Vitor, para apoiar a organização das páginas Markdown conforme o padrão da Entrega 5, a revisão dos textos do protótipo de papel e a estruturação do planejamento da avaliação do protótipo de alta fidelidade. Não foram gerados dados de participantes, resultados de avaliações, datas de sessões realizadas ou links de gravação. A responsabilidade pela revisão acadêmica e pelo conteúdo publicado é do autor.
+
+**Padronização do formato (10/11/2026).** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar o formato desta página no modelo adotado pelo grupo: revisores genéricos ("-", "Pendente") trocados por "—"; inclusão da seção de referências bibliográficas. O conteúdo do autor não foi alterado. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

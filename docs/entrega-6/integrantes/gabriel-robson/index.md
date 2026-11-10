@@ -18,8 +18,9 @@ Fonte: elaborado pelo autor (2026).
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 03/11/2026 | 1.0 | Criação da visão geral e estrutura inicial dos materiais individuais para a proposta de renovação da CNH | Gabriel Robson, com apoio do ChatGPT (IA generativa) | Pendente |
-| 04/11/2026 | 1.1 | Organização das legendas e da sequência das sete fotografias; publicação das imagens originais ainda pendente | Gabriel Robson, com apoio do ChatGPT (IA generativa) | Pendente |
+| 03/11/2026 | 1.0 | Criação da visão geral e estrutura inicial dos materiais individuais para a proposta de renovação da CNH | Gabriel Robson, com apoio do ChatGPT (IA generativa) | — |
+| 04/11/2026 | 1.1 | Organização das legendas e da sequência das sete fotografias; publicação das imagens originais ainda pendente | Gabriel Robson, com apoio do ChatGPT (IA generativa) | — |
+| 10/11/2026 | 1.2 | Padronização do formato no modelo do grupo (detalhes na seção de uso de IA generativa) | Henrique Schneider | — |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -50,12 +51,18 @@ A documentação e o protótipo demonstrativo constituem uma proposta inicial. A
 
 Vídeo da apresentação: a definir após a gravação.
 
-## Referências
+## Referências bibliográficas
 
-- BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010. Capítulos 9 e 10.
-- GRUPO 03. *Metas de usabilidade*. Entrega 3 do projeto da disciplina de Interação Humano-Computador. Brasília: UnB, 2026.
-- GRUPO 03. *Relatório da Entrega 5*. Projeto da disciplina de Interação Humano-Computador. Brasília: UnB, 2026.
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.
 
-## Uso de IA generativa
+GRUPO 03. *Metas de usabilidade*. Entrega 3 do projeto da disciplina de Interação Humano-Computador. Brasília: Universidade de Brasília, 2026.
+
+GRUPO 03. *Relatório da Entrega 5*. Projeto da disciplina de Interação Humano-Computador. Brasília: Universidade de Brasília, 2026.
+
+SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1. Brasília: Universidade de Brasília, 2026.
+
+## Agradecimentos e uso de IA generativa
 
 O ChatGPT (OpenAI) foi utilizado como apoio à organização e redação inicial desta documentação, a pedido do autor. O autor deve revisar, complementar e validar o conteúdo. Não foram inventados participantes, sessões, resultados, gravações ou problemas observados.
+
+**Padronização do formato (10/11/2026).** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar o formato desta página no modelo adotado pelo grupo: revisores genéricos ("-", "Pendente") trocados por "—"; seção de referências renomeada para "Referências bibliográficas"; referências no formato da NBR 6023 (sem marcadores, ordem alfabética); seção de IA renomeada para "Agradecimentos e uso de IA generativa". O conteúdo do autor não foi alterado. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

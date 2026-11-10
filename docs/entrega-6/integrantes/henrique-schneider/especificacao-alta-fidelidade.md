@@ -1,6 +1,6 @@
 # Especificação do Protótipo de Alta Fidelidade – Henrique Schneider
 
-## Quadro de contribuição
+## Tabela de contribuição
 
 **Quadro 1 – Contribuição no artefato Especificação do Protótipo de Alta Fidelidade – Henrique Schneider**
 
@@ -19,6 +19,7 @@ Fonte: elaborado pelo autor (2026).
 | 27/10/2026 | 1.0    | Criação da especificação: escopo, requisitos visuais do guia de estilo, fluxo, telas, estados para as tarefas do teste e checklist de construção, a partir do modelo do protótipo de papel (v1.0), da HTA (v1.2) e do relato da avaliação do storyboard (v3.1). A Seção 8 fica para ser preenchida com os resultados do protótipo de papel | Claude (IA generativa), a pedido de Henrique Schneider Fernandes da Rosa | João Vitor Tavares de Sá Lima |
 | 02/11/2026 | 1.1 | Publicação da versão em Markdown no site do grupo, com as figuras e o PDF para download | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
 | 03/11/2026 | 1.2 | Seção 8 e Tabela 12 preenchidas com os problemas PC01, PC02 e PN01 a PN04 da Sessão 1 do protótipo de papel; datas de exemplo e cronograma atualizados | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
+| 10/11/2026 | 1.3 | Padronização do formato no modelo do grupo (detalhes na seção de uso de IA generativa) | Henrique Schneider | — |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -250,7 +251,7 @@ Fonte: elaborado pelo autor (2026), a partir dos Apêndices C e D do roteiro da 
 - [ ] Os itens [VERIFICAR] deste documento foram resolvidos ou deixados com texto genérico.
 - [ ] Link ou arquivo do protótipo registrado na página da Entrega 6 do site e no roteiro do teste.
 
-## Referências
+## Referências bibliográficas
 
 GRUPO 03. *Guia de Estilo do Detran-DF*. Versão 1.3. Entrega 3 do projeto da disciplina de Interação Humano-Computador. Brasília: Universidade de Brasília, 2026. Disponível em: https://interacao-humano-computador.github.io/2026.2-Grupo03/.
 
@@ -275,3 +276,5 @@ Conforme o Código de Conduta da SBC adotado no Plano de Ensino (Sales, 2026, p.
 Em 02/11/2026, também a pedido do autor, o Claude foi usado para converter este documento em página do site, e em 03/11/2026, para preencher a Seção 8 com os problemas da Sessão 1.
 
 A versão em PDF deste artefato está disponível para download: [Especificação do Protótipo de Alta Fidelidade (PDF)](arquivos/especificacao-prototipo-alta-fidelidade.pdf).
+
+**Padronização do formato (10/11/2026).** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar o formato desta página no modelo adotado pelo grupo: padronização do título da tabela de contribuição; seção de referências renomeada para "Referências bibliográficas". O conteúdo do autor não foi alterado. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

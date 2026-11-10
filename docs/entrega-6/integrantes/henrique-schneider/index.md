@@ -18,6 +18,7 @@ Fonte: elaborado pelo autor (2026).
 | --- | --- | --- | --- | --- |
 | 02/11/2026 | 1.0 | Publicação da visão geral do material de Henrique Schneider na Entrega 6, das três páginas de planejamento e dos PDFs | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
 | 03/11/2026 | 1.1 | Link do vídeo da apresentação; registro da Sessão 1 e do teste-piloto do protótipo de papel (03/11/2026), com links das gravações; novas versões do roteiro da sessão (v1.3), do TCLE do protótipo de papel (v1.1), da especificação (v1.2), do planejamento do teste de usabilidade (v1.2) e do roteiro da apresentação (v1.2); novo cronograma da avaliação de alta fidelidade | Henrique Schneider, com apoio do Claude (IA generativa) | João Vitor Tavares de Sá Lima |
+| 10/11/2026 | 1.2 | Padronização do formato no modelo do grupo (detalhes na seção de uso de IA generativa) | Henrique Schneider | — |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -57,7 +58,7 @@ A parte de Henrique Schneider no relatório do grupo está nas seções 1.4.1 (r
 
 O vídeo da apresentação da parte de Henrique Schneider na Entrega 6 está publicado no YouTube como “não listado”: [assista à apresentação](https://youtu.be/sI_3rqIQbCU). O roteiro da gravação está no [PDF do roteiro da apresentação](arquivos/roteiro-apresentacao-entrega-6.pdf).
 
-## Referências
+## Referências bibliográficas
 
 GRUPO 03. *Metas de usabilidade*. Entrega 3 do projeto da disciplina de Interação Humano-Computador. Brasília: Universidade de Brasília, 2026a.
 
@@ -68,3 +69,5 @@ SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA01
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 27/10/2026, 02/11/2026 e 03/11/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para redigir os documentos listados na Tabela 3, organizar esta página e, em 03/11/2026, redigir o relato da Sessão 1 a partir da gravação e das informações dadas pelo autor. As datas, os horários, os papéis e o participante foram informados pelo autor ou conferidos na gravação; não foram inventados dados. A ferramenta não é autora do artefato, e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+**Padronização do formato (10/11/2026).** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar o formato desta página no modelo adotado pelo grupo: seção de referências renomeada para "Referências bibliográficas". O conteúdo do autor não foi alterado. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
