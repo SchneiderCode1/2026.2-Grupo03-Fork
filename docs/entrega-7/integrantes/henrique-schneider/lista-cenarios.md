@@ -22,6 +22,7 @@ Fonte: elaborado pelos autores (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 10/11/2026 | 1.0 | Elaboração do trabalho (13 itens) e publicação no site | Henrique Schneider | — |
+| 10/11/2026 | 1.1 | Reformulação da seção de uso de IA generativa (ferramenta, onde foi empregada, o que foi feito e verificação humana) | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -197,4 +198,14 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa neste trabalho.** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para localizar nos slides do capítulo 6 os trechos sobre cenários, redigir a primeira versão dos itens como perguntas completas, recortar as imagens dos slides e formatar o documento e esta página. O conteúdo foi conferido pelo autor com os slides, e a ferramenta não é autora do trabalho (SALES, 2026, p. 3).
+Agradecemos ao Prof. Dr. André Barros de Sales pela orientação da disciplina e pela descrição da atividade. Conforme o Código de Conduta da SBC adotado no Plano de Ensino, que pede que o uso de IA generativa seja declarado, com as ferramentas e onde foram empregadas (SALES, 2026, p. 3), a Tabela 3 registra o uso neste trabalho.
+
+**Tabela 3 – Uso de IA generativa na Lista de Verificação – Cenários**
+
+| Ferramenta | Onde foi empregada | O que foi feito | Verificação humana |
+| --- | --- | --- | --- |
+| Claude (Anthropic) | Itens 1 a 13 (seção 2) | Localização dos trechos sobre cenários nos slides do capítulo 6 e redação da primeira versão de cada item como pergunta completa | Conferência de cada item com o slide indicado, pelo autor |
+| Claude (Anthropic) | Figuras 1 a 13 | Recorte da região de cada slide que fundamenta o item | Conferência de que a foto mostra o trecho citado, pelo autor |
+| Claude (Anthropic) | Tabelas 1 a 3, introdução, referências e formatação da página | Montagem da página no padrão do grupo | Revisão final pelo autor |
+
+Fonte: elaborado pelo autor (2026). A ferramenta não é autora do trabalho; o autor responde pelo conteúdo.

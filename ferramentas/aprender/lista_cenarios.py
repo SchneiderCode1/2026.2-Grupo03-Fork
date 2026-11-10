@@ -80,7 +80,13 @@ def build(slides_dir, out_dir, matricula=None, data="10/11/2026"):
     <p>BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. <i>Interação Humano-Computador</i>. Rio de Janeiro: Elsevier, 2010.</p>
     <p>SALES, André Barros de. <i>Plano de Ensino: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1</i>. Brasília: Universidade de Brasília, 2026.</p>
     <h2>Agradecimentos e uso de IA generativa</h2>
-    <p>Conforme o Código de Conduta da SBC adotado no Plano de Ensino (SALES, 2026, p. 3), declaro o uso de IA generativa: a ferramenta <b>Claude (Anthropic)</b> foi usada a meu pedido para localizar nos slides do capítulo 6 os trechos sobre cenários, redigir a primeira versão dos itens como perguntas completas, recortar as imagens dos slides e formatar este documento. O conteúdo foi conferido por mim com os slides, e sou o responsável por ele. A ferramenta não é autora do artefato.</p></body></html>""")
+    <p>Agradeço ao Prof. Dr. André Barros de Sales pela orientação da disciplina e pela descrição da atividade. Conforme o Código de Conduta da SBC adotado no Plano de Ensino, que pede que o uso de IA generativa seja declarado, com as ferramentas e onde foram empregadas (SALES, 2026, p. 3), a Tabela 2 registra o uso neste trabalho.</p>
+    <p class="nota"><b>Tabela 2 – Uso de IA generativa na Lista de Verificação – Cenários</b></p>
+    <table><tr><th>Ferramenta</th><th>Onde foi empregada</th><th>O que foi feito</th><th>Verificação humana</th></tr>
+    <tr><td>Claude (Anthropic)</td><td>Itens 1 a 13 (seção 2)</td><td>Localização dos trechos sobre cenários nos slides do capítulo 6 e redação da primeira versão de cada item como pergunta completa</td><td>Conferência de cada item com o slide indicado, pelo autor</td></tr>
+    <tr><td>Claude (Anthropic)</td><td>Figuras 1 a 13</td><td>Recorte da região de cada slide que fundamenta o item</td><td>Conferência de que a foto mostra o trecho citado, pelo autor</td></tr>
+    <tr><td>Claude (Anthropic)</td><td>Cabeçalho, histórico de versões, introdução, referências e formatação</td><td>Montagem do documento no padrão do grupo</td><td>Revisão final pelo autor</td></tr></table>
+    <p class="nota">Fonte: elaborado pelo autor (2026). A ferramenta não é autora do trabalho; o autor responde pelo conteúdo.</p></body></html>""")
     open(os.path.join(out_dir,"lista-cenarios.html"),"w",encoding="utf-8").write("\n".join(h))
 
     # página Markdown para o site
@@ -108,6 +114,7 @@ Fonte: elaborado pelos autores (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | {data} | 1.0 | Elaboração do trabalho (13 itens) e publicação no site | Henrique Schneider | — |
+| {data} | 1.1 | Reformulação da seção de uso de IA generativa (ferramenta, onde foi empregada, o que foi feito e verificação humana) | Henrique Schneider | — |
 
 Fonte: elaborado pelos autores (2026).
 
@@ -140,7 +147,17 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 
 ## Agradecimentos e uso de IA generativa
 
-**Uso de IA generativa neste trabalho.** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para localizar nos slides do capítulo 6 os trechos sobre cenários, redigir a primeira versão dos itens como perguntas completas, recortar as imagens dos slides e formatar o documento e esta página. O conteúdo foi conferido pelo autor com os slides, e a ferramenta não é autora do trabalho (SALES, 2026, p. 3).
+Agradecemos ao Prof. Dr. André Barros de Sales pela orientação da disciplina e pela descrição da atividade. Conforme o Código de Conduta da SBC adotado no Plano de Ensino, que pede que o uso de IA generativa seja declarado, com as ferramentas e onde foram empregadas (SALES, 2026, p. 3), a Tabela 3 registra o uso neste trabalho.
+
+**Tabela 3 – Uso de IA generativa na Lista de Verificação – Cenários**
+
+| Ferramenta | Onde foi empregada | O que foi feito | Verificação humana |
+| --- | --- | --- | --- |
+| Claude (Anthropic) | Itens 1 a 13 (seção 2) | Localização dos trechos sobre cenários nos slides do capítulo 6 e redação da primeira versão de cada item como pergunta completa | Conferência de cada item com o slide indicado, pelo autor |
+| Claude (Anthropic) | Figuras 1 a 13 | Recorte da região de cada slide que fundamenta o item | Conferência de que a foto mostra o trecho citado, pelo autor |
+| Claude (Anthropic) | Tabelas 1 a 3, introdução, referências e formatação da página | Montagem da página no padrão do grupo | Revisão final pelo autor |
+
+Fonte: elaborado pelo autor (2026). A ferramenta não é autora do trabalho; o autor responde pelo conteúdo.
 """)
     open(os.path.join(out_dir,"lista-cenarios.md"),"w",encoding="utf-8").write("\n".join(md))
 
