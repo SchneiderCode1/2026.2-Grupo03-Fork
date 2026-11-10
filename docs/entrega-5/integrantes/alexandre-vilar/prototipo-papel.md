@@ -20,8 +20,13 @@ Fonte: intenções informadas por Alexandre Vilar em 25/10/2026.
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Organização das intenções de avaliação e revisão informadas pelo autor | Alexandre Vilar, com apoio do ChatGPT | — |
+| 10/11/2026 | 1.1 | Padronização do formato no modelo do grupo (detalhes na seção de uso de IA generativa) | Henrique Schneider | — |
 
-## 1. Objetivo e escopo
+Fonte: elaborado pelos autores (2026).
+
+## 1. Introdução: objetivo e escopo
+
+Esta página reúne o material **Planejamento da Avaliação do Protótipo de Papel – Alexandre Vilar**, elaborado por Alexandre Vilar na Entrega 5 do projeto do Grupo 03 sobre o Portal do Detran-DF.
 
 Avaliar se a proposta de agendamento de vistoria para transferência de propriedade permite identificar o serviço, compreender as orientações, selecionar local/data/horário e reconhecer a confirmação do atendimento. A base de projeto é o [HTA do redesign](hta-redesign.md), com os objetivos 1 a 5.
 
@@ -99,12 +104,16 @@ O relato deverá registrar objetivo, método, perfil dos participantes e avaliad
 
 Fonte: planejamento proposto com base nas intenções do autor; nenhuma dessas sessões futuras é declarada concluída.
 
-## Referências
+## Referências bibliográficas
 
 BARBOSA, Simone Diniz Junqueira et al. *Interação Humano-Computador e Experiência do Usuário*. 2021. Seção 11.7.2, p. 260: preparação e teste-piloto.
 
 GRUPO 03. *Relatório da Entrega 5*. 2026. [Capítulos 3 e 4: planejamento coletivo da avaliação e do relato do protótipo de papel](../../relatorio-do-grupo.md).
 
+SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1. Brasília: Universidade de Brasília, 2026.
+
 ## Agradecimentos e uso de IA generativa
 
 Em 25/10/2026, o ChatGPT (OpenAI), a pedido de Alexandre Vilar, apoiou a organização deste planejamento a partir do HTA e das intenções informadas pelo autor. Estimativas e distribuição de papéis estão identificadas como propostas. A autoria e a responsabilidade pela revisão são humanas; não foram gerados resultados de sessões futuras.
+
+**Padronização do formato (10/11/2026).** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar o formato desta página no modelo adotado pelo grupo: seção de referências renomeada para "Referências bibliográficas"; primeira seção identificada como introdução, com parágrafo de apresentação do artefato. O conteúdo do autor não foi alterado. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

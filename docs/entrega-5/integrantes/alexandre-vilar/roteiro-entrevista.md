@@ -19,9 +19,14 @@ Fonte: elaborado a partir dos materiais fornecidos por Alexandre Vilar (2026).
 | 25/10/2026 | 1.0 | Adaptação das perguntas e organização das referências da fundamentação | Alexandre Vilar, com apoio do ChatGPT | — |
 
 | 25/10/2026 | 1.1 | Correção dos avisos dos anexos já publicados e ligação à análise da entrevista | Alexandre Vilar, com apoio do ChatGPT | — |
+| 10/11/2026 | 1.2 | Padronização do formato no modelo do grupo (detalhes na seção de uso de IA generativa) | Henrique Schneider | — |
 Fonte: registro desta versão (2026).
 
 [Baixar roteiro da entrevista com fundamentação](arquivos/roteiro-entrevista-decide-vistoria.pdf)
+
+## Introdução
+
+Esta página reúne o material **Roteiro de Entrevista – Alexandre Vilar**, elaborado por Alexandre Vilar na Entrega 5 do projeto do Grupo 03 sobre o Portal do Detran-DF. O conteúdo está organizado em: primeiro E do DECIDE; orientações de aplicação; perguntas e fundamentação; adequação ao storyboard.
 
 ## 1. Primeiro E do DECIDE
 
@@ -201,12 +206,16 @@ Q1-Q3 tratam do processo atual; Q4-Q5, da validação do HTA; Q6-Q8, do storyboa
 
 O roteiro foi preparado para o tema de vistoria para transferência de propriedade. Na sessão, as perguntas devem ser interpretadas considerando apenas os elementos efetivamente representados no storyboard. A [análise da entrevista](relatorio-pos-entrevista.md) distingue compreensão geral da proposta e interpretação detalhada de seus controles.
 
-## Referências
+## Referências bibliográficas
 
-BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. 2021.
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. E-book.
+
+SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1. Brasília: Universidade de Brasília, 2026.
 
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 25/10/2026, o ChatGPT (OpenAI) foi utilizado, a pedido de Alexandre Vilar, para apoiar a organização do conteúdo, a redação das páginas, a estruturação dos HTAs e a adaptação das perguntas do livro. O storyboard foi desenhado por Alexandre e mantido na versão fornecida. Não foram gerados dados de participantes, resultados ou registros de entrevistas. A responsabilidade pelo conteúdo e pela revisão é dos autores.
 
 **Atualização com IA generativa em 25/10/2026.** O ChatGPT (OpenAI), a pedido de Alexandre Vilar, auxiliou na consolidação dos registros, na análise das transcrições do piloto e da entrevista e na atualização desta página. As interpretações e as recomendações são análises, não falas literais dos participantes. Não foram inventados dados pessoais, datas de sessão ou resultados.
+
+**Padronização do formato (10/11/2026).** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar o formato desta página no modelo adotado pelo grupo: seção de referências renomeada para "Referências bibliográficas"; inclusão da seção "Introdução". O conteúdo do autor não foi alterado. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

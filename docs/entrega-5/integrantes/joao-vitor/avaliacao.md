@@ -20,10 +20,13 @@ Fonte: materiais disponibilizados pelo responsável (2026).
 | 25/10/2026 | 1.1 | Publicação dos links do teste-piloto e da entrevista definitiva | João Vitor Tavares | — |
 | 25/10/2026 | 1.2 | Registro do TCLE assinado e dos cuidados de privacidade | João Vitor Tavares, com apoio do ChatGPT | — |
 | 25/10/2026 | 1.3 | Remoção de marcadores pendentes e atualização do status da análise | João Vitor Tavares, com apoio do ChatGPT | — |
+| 10/11/2026 | 1.4 | Padronização do formato no modelo do grupo (detalhes na seção de uso de IA generativa) | Henrique Schneider | — |
 
 Fonte: registro desta versão (2026).
 
-## 1. Objetivo e escopo
+## 1. Introdução: objetivo e escopo
+
+Esta página reúne o material **Avaliação da HTA e do Storyboard – João Vitor**, elaborado por João Vitor na Entrega 5 do projeto do Grupo 03 sobre o Portal do Detran-DF.
 
 Investigar como os participantes compreendem o processo de agendamento de biometria representado no HTA atual e a proposta de gerenciamento representada no storyboard e no HTA do redesign.
 
@@ -101,6 +104,12 @@ Para cada questão, relacionar falas e observações ao objetivo correspondente.
 
 A interpretação e a consolidação do relato seguem as etapas descritas por Barbosa et al. (2021) para avaliação de IHC.
 
-## Referências
+## Referências bibliográficas
 
-BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. 2021.
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. E-book.
+
+SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1. Brasília: Universidade de Brasília, 2026.
+
+## Agradecimentos e uso de IA generativa
+
+**Padronização do formato (10/11/2026).** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar o formato desta página no modelo adotado pelo grupo: seção de referências renomeada para "Referências bibliográficas"; primeira seção identificada como introdução, com parágrafo de apresentação do artefato; inclusão da seção "Agradecimentos e uso de IA generativa". O conteúdo do autor não foi alterado. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

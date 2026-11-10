@@ -22,10 +22,13 @@ Fonte: elaborado pelo autor (2026).
 | 25/10/2026 | 2.0    | Preenchimento com os dados da entrevista de 25/10/2026 (participante P1): perfil e condições da sessão, sumário das respostas, interpretação, resultado das hipóteses da HTA, lista de problemas e planejamento do reprojeto; registro dos desvios e das limitações da sessão | Henrique Schneider Fernandes da Rosa, com apoio do Claude (IA generativa) | Gabriel Robson |
 | 25/10/2026 | 3.0    | Inclusão da segunda sessão (participante P2): perfil, respostas, comparação entre os participantes (recorrências e divergências), novos problemas 06 e 07, atualização das hipóteses, do reprojeto e das limitações                                                           | Henrique Schneider Fernandes da Rosa, com apoio do Claude (IA generativa) | Gabriel Robson |
 | 25/10/2026 | 3.1    | Inclusão do link da gravação da sessão com P2 (YouTube, não listado), no lugar do marcador provisório, para publicação no GitHub Pages                                                                                                                                        | Henrique Schneider Fernandes da Rosa, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 10/11/2026 | 3.2 | Padronização do formato no modelo do grupo (detalhes na seção de uso de IA generativa) | Henrique Schneider | — |
 
 Fonte: elaborado pelo autor (2026).
 
-## 1. Objetivos e escopo da avaliação
+## 1. Introdução: objetivos e escopo da avaliação
+
+Esta página reúne o material **Relato dos Resultados da Avaliação do Storyboard – Henrique Schneider**, elaborado por Henrique Schneider na Entrega 5 do projeto do Grupo 03 sobre o Portal do Detran-DF.
 
 Este documento relata os resultados da avaliação do storyboard “Agendamento da prova teórica com reserva de horário”, elaborado pelo autor para o projeto do Grupo 03 sobre o portal do Detran-DF. O storyboard mostra a persona Camila, candidata à primeira CNH, agendando a prova teórica com uma proposta de reprojeto: reservar o horário antes do pagamento e confirmar a prova automaticamente após a compensação do PIX (Figura 1). Cada quadro corresponde a um nó da Análise Hierárquica de Tarefas (HTA) do autor, conforme o Quadro 1.
 
@@ -215,7 +218,7 @@ Fonte: Barbosa e Silva (2010, p. 312).
 
 A versão em PDF deste artefato está disponível para download: [Relato dos resultados da avaliação do storyboard (v3.0)](arquivos/relato-resultados-storyboard.pdf).
 
-## Referências
+## Referências bibliográficas
 
 BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.
 
@@ -242,3 +245,5 @@ O autor agradece aos participantes P1 e P2 pela disponibilidade e pela paciênci
 Conforme o Código de Conduta da SBC adotado no Plano de Ensino (Sales, 2026, p. 3), declara-se que o Claude (Anthropic) foi usado como apoio na diagramação deste relato e na localização dos trechos citados de Barbosa e Silva (2010) (versão 1.0) e, na versão 2.0, na organização das respostas a partir da transcrição automática e da gravação da entrevista, na redação das tabelas de resultados e na proposta de severidades; a idade da participante P1, a data do teste-piloto e a autorização de imagem de P1 foram informadas pelo autor. Na versão 3.0, foi usado para organizar as respostas da sessão 2 e comparar os dois participantes. A condução da entrevista, os dados coletados, a revisão da análise e as conclusões são de responsabilidade do autor.
 
 **Uso de IA generativa nesta página.** Em 25/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para converter o PDF deste artefato em página do site, com a tabela de contribuição e a renumeração das tabelas a partir da Tabela 2. Os participantes aparecem como P1 e P2, como no PDF; no relatório do grupo, são P3 e P4. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
+
+**Padronização do formato (10/11/2026).** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar o formato desta página no modelo adotado pelo grupo: seção de referências renomeada para "Referências bibliográficas"; primeira seção identificada como introdução, com parágrafo de apresentação do artefato. O conteúdo do autor não foi alterado. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

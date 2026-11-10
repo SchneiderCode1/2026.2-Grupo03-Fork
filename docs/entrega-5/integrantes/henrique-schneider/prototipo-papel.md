@@ -17,8 +17,13 @@ Fonte: elaborado pelo autor (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Publicação da parte de Henrique Schneider no planejamento da avaliação do protótipo de papel (seções 3.8.1 e 4.4 do relatório do grupo) | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 10/11/2026 | 1.1 | Padronização do formato no modelo do grupo (detalhes na seção de uso de IA generativa) | Henrique Schneider | — |
 
 Fonte: elaborado pelo autor (2026).
+
+## Introdução
+
+Esta página reúne o material **Protótipo de Papel – Henrique Schneider**, elaborado por Henrique Schneider na Entrega 5 do projeto do Grupo 03 sobre o Portal do Detran-DF. O conteúdo está organizado em: telas e partes móveis do protótipo; tarefas da avaliação; decisões da avaliação e cronograma; cronograma do relato.
 
 ## 1. Telas e partes móveis do protótipo
 
@@ -87,7 +92,7 @@ Fonte: Relatório da Entrega 5 (GRUPO 03, 2026b, Tabela 19).
 
 O planejamento coletivo (Framework DECIDE) está no [capítulo 3 do relatório do grupo](../../relatorio-do-grupo.md#3-planejamento-da-avaliacao-do-prototipo-de-papel-framework-decide).
 
-## Referências
+## Referências bibliográficas
 
 BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.
 
@@ -102,3 +107,5 @@ SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA01
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 25/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar esta página a partir das seções 3.8.1 e 4.4 do Relatório da Entrega 5, sem alterar o planejamento registrado. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+**Padronização do formato (10/11/2026).** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar o formato desta página no modelo adotado pelo grupo: seção de referências renomeada para "Referências bibliográficas"; inclusão da seção "Introdução". O conteúdo do autor não foi alterado. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

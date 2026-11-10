@@ -21,6 +21,7 @@ Fonte: elaborado pelo autor (2026).
 | 22/10/2026 | 1.0    | Criação do roteiro de entrevista semiestruturada, da folha de registro do relator e da tabela de consolidação dos problemas                                                                                              | Henrique Schneider Fernandes da Rosa                                      | Gabriel Robson |
 | 25/10/2026 | 1.1    | Registro da sessão realizada em 25/10/2026 (quantidade de participantes, papéis e cronograma das sessões) e preenchimento da tabela de consolidação dos problemas (Apêndice B); nenhuma pergunta do roteiro foi alterada | Henrique Schneider Fernandes da Rosa, com apoio do Claude (IA generativa) | Gabriel Robson |
 | 25/10/2026 | 1.2    | Registro da sessão 2 (P2) no cronograma e na logística e atualização da tabela de consolidação dos problemas (Apêndice B) com os dois participantes                                                                      | Henrique Schneider Fernandes da Rosa, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 10/11/2026 | 1.3 | Padronização do formato no modelo do grupo (detalhes na seção de uso de IA generativa) | Henrique Schneider | — |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -322,20 +323,22 @@ Fonte: elaborado pelo autor (2026), a partir das sessões 1 e 2 (25/10/2026).
 
 A versão em PDF deste artefato está disponível para download: [Roteiro de entrevista semiestruturada (v1.2)](arquivos/roteiro-entrevista-agendamento-prova-teorica.pdf).
 
-## Referências
+## Referências bibliográficas
 
 BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.
 
-GRUPO 03. *Relatório da Entrega 2*: Perfil do Usuário, Aspectos Éticos e Análise de Tarefas. Brasília: Universidade de Brasília, 2026.
-
 GRUPO 03. *Planejamento da Entrega 4*: Planejamento da Avaliação do Storyboard e da Análise de Tarefas. Brasília: Universidade de Brasília, 2026.
+
+GRUPO 03. *Relatório da Entrega 2*: Perfil do Usuário, Aspectos Éticos e Análise de Tarefas. Brasília: Universidade de Brasília, 2026.
 
 ROSA, Henrique Schneider Fernandes da. *Relato dos resultados da avaliação do storyboard* “Agendamento da prova teórica com reserva de horário”. Versão 3.0. Brasília: Universidade de Brasília, 2026.
 
 SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1. Brasília: Universidade de Brasília, 2026.
 
-## Uso de IA generativa
+## Agradecimentos e uso de IA generativa
 
 Conforme o Código de Conduta da SBC adotado no Plano de Ensino (Sales, 2026, p. 3), declara-se que o Claude (Anthropic) foi usado como apoio na redação do roteiro, na diagramação deste PDF e na localização dos trechos citados de Barbosa e Silva (2010) e, nas versões 1.1 e 1.2, no registro das sessões realizadas e na consolidação dos problemas a partir da transcrição automática e da gravação. As decisões do planejamento, a condução das entrevistas e a revisão do conteúdo são de responsabilidade do autor.
 
 **Uso de IA generativa nesta página.** Em 25/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para converter o PDF deste artefato em página do site, com a tabela de contribuição e a renumeração das tabelas a partir da Tabela 2. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (Sales, 2026, p. 3).
+
+**Padronização do formato (10/11/2026).** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar o formato desta página no modelo adotado pelo grupo: seção de referências renomeada para "Referências bibliográficas"; seção de IA renomeada para "Agradecimentos e uso de IA generativa". O conteúdo do autor não foi alterado. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

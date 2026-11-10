@@ -19,9 +19,12 @@ Fonte: elaborado a partir dos materiais fornecidos por Alexandre Vilar (2026).
 | 25/10/2026 | 1.0 | Estruturação do objetivo, da árvore de tarefas e dos planos do processo atual | Alexandre Vilar, com apoio do ChatGPT | — |
 | 25/10/2026 | 1.1 | Ligação aos resultados da entrevista e explicitação dos limites de validação | Alexandre Vilar, com apoio do ChatGPT | — |
 | 25/10/2026 | 1.2 | Sincronização com P2, registros coletivos e resultados da conferência documental do Fluxo 5 | Alexandre Vilar, com apoio do ChatGPT | — |
+| 10/11/2026 | 1.3 | Padronização do formato no modelo do grupo (detalhes na seção de uso de IA generativa) | Henrique Schneider | — |
 Fonte: registro desta versão (2026).
 
-## 1. Objetivo e recorte
+## 1. Introdução: objetivo e recorte
+
+Esta página reúne o material **HTA do Processo Atual – Alexandre Vilar**, elaborado por Alexandre Vilar na Entrega 5 do projeto do Grupo 03 sobre o Portal do Detran-DF.
 
 **Objetivo 0:** obter as informações necessárias e escolher uma empresa credenciada para realizar a vistoria veicular para transferência de propriedade.
 
@@ -74,12 +77,16 @@ A [avaliação realizada](relatorio-pos-entrevista.md) registra reconhecimento p
 
 Este modelo está identificado como **Fluxo 5** na [avaliação coletiva](../../relatorio-do-grupo.md#24-sumario-dos-dados-coletados). A conferência documental distingue atendimento dos planos e da decomposição de lacunas na formulação do estado final e na especificação de entrada e feedback por operação (PH05–PH07). A árvore não foi alterada nesta consolidação. P01 corresponde ao participante coletivo P2.
 
-## Referências
+## Referências bibliográficas
 
-BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. 2021.
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. E-book.
+
+SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1. Brasília: Universidade de Brasília, 2026.
 
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 25/10/2026, o ChatGPT (OpenAI) foi utilizado, a pedido de Alexandre Vilar, para apoiar a organização do conteúdo, a redação das páginas, a estruturação dos HTAs e a adaptação das perguntas do livro. O storyboard foi desenhado por Alexandre e mantido na versão fornecida. Não foram gerados dados de participantes, resultados ou registros de entrevistas. A responsabilidade pelo conteúdo e pela revisão é dos autores.
 
 **Atualização com IA generativa em 25/10/2026.** O ChatGPT (OpenAI), a pedido de Alexandre Vilar, auxiliou na consolidação dos registros, na análise das transcrições do piloto e da entrevista e na atualização desta página. As interpretações e as recomendações são análises, não falas literais dos participantes. Não foram inventados dados pessoais, datas de sessão ou resultados.
+
+**Padronização do formato (10/11/2026).** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar o formato desta página no modelo adotado pelo grupo: seção de referências renomeada para "Referências bibliográficas"; primeira seção identificada como introdução, com parágrafo de apresentação do artefato. O conteúdo do autor não foi alterado. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

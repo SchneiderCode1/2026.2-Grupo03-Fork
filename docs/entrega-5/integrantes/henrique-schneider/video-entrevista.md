@@ -17,8 +17,13 @@ Fonte: elaborado pelo autor (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Publicação das gravações das sessões com P1 e P2, dos trechos aproximados das duas sessões e das transcrições anonimizadas | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 10/11/2026 | 1.1 | Padronização do formato no modelo do grupo (detalhes na seção de uso de IA generativa) | Henrique Schneider | — |
 
 Fonte: elaborado pelo autor (2026).
+
+## Introdução
+
+Esta página reúne o material **Vídeos da Entrevista – Henrique Schneider**, elaborado por Henrique Schneider na Entrega 5 do projeto do Grupo 03 sobre o Portal do Detran-DF. O conteúdo está organizado em: sessão 1 – participante P1; sessão 2 – participante P2; transcrições anonimizadas.
 
 ## 1. Sessão 1 – participante P1
 
@@ -70,16 +75,18 @@ As transcrições automáticas do Microsoft Teams foram anonimizadas seguindo Ba
 
 [Voltar ao roteiro da entrevista](roteiro-entrevista.md).
 
-## Referências
+## Referências bibliográficas
 
 BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. *Interação Humano-Computador*. Rio de Janeiro: Elsevier, 2010.
-
-SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1. Brasília: Universidade de Brasília, 2026.
 
 ROSA, Henrique Schneider Fernandes da. *Entrevista de avaliação do storyboard com a participante P1*. Brasília, 25 out. 2026. 1 vídeo (25 min 16 s). Disponível em: https://youtu.be/TTIRe6Id010. Acesso em: 25 out. 2026.
 
 ROSA, Henrique Schneider Fernandes da. *Entrevista de avaliação do storyboard com o participante P2*. Brasília, 25 out. 2026. 1 vídeo (17 min 9 s). Disponível em: https://youtu.be/4wEvZ1Okwwk. Acesso em: 25 out. 2026.
 
+SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1. Brasília: Universidade de Brasília, 2026.
+
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 25/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar esta página a partir do Relatório da Entrega 5 e dos documentos individuais do autor. Não foram gerados dados de participantes, datas de sessão ou resultados. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+**Padronização do formato (10/11/2026).** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar o formato desta página no modelo adotado pelo grupo: seção de referências renomeada para "Referências bibliográficas"; inclusão da seção "Introdução". O conteúdo do autor não foi alterado. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

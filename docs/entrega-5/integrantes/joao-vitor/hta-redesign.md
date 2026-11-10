@@ -17,10 +17,13 @@ Fonte: material elaborado pelo responsável (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Publicação da árvore, decomposição e planos do redesign | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | — |
+| 10/11/2026 | 1.1 | Padronização do formato no modelo do grupo (detalhes na seção de uso de IA generativa) | Henrique Schneider | — |
 
 Fonte: registro desta versão (2026).
 
-## 1. Objetivo e escopo
+## 1. Introdução: objetivo e escopo
+
+Esta página reúne o material **HTA do Redesign – João Vitor**, elaborado por João Vitor na Entrega 5 do projeto do Grupo 03 sobre o Portal do Detran-DF.
 
 **Objetivo 0:** agendar e gerenciar biometria no Portal Detran-DF.
 
@@ -73,6 +76,12 @@ Fonte: organização textual baseada no HTA do redesign fornecido (2026).
 
 **Limite:** os mecanismos de mensagem, link rápido e liberação automática de vaga são elementos da proposta e precisam ser avaliados; não são apresentados como funcionalidades implementadas.
 
-## Referências
+## Referências bibliográficas
 
-BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. 2021.
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. E-book.
+
+SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1. Brasília: Universidade de Brasília, 2026.
+
+## Agradecimentos e uso de IA generativa
+
+**Padronização do formato (10/11/2026).** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar o formato desta página no modelo adotado pelo grupo: seção de referências renomeada para "Referências bibliográficas"; primeira seção identificada como introdução, com parágrafo de apresentação do artefato; inclusão da seção "Agradecimentos e uso de IA generativa". O conteúdo do autor não foi alterado. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

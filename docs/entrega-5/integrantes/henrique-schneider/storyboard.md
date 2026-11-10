@@ -17,10 +17,13 @@ Fonte: elaborado pelo autor (2026).
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Publicação do storyboard “Agendamento da prova teórica com reserva de horário” (versão de 22/10/2026) e do resumo da avaliação | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 10/11/2026 | 1.1 | Padronização do formato no modelo do grupo (detalhes na seção de uso de IA generativa) | Henrique Schneider | — |
 
 Fonte: elaborado pelo autor (2026).
 
-## 1. Contexto e proposta
+## 1. Introdução: contexto e proposta
+
+Esta página reúne o material **Storyboard – Henrique Schneider**, elaborado por Henrique Schneider na Entrega 5 do projeto do Grupo 03 sobre o Portal do Detran-DF.
 
 Um storyboard é, segundo Preece, Rogers e Sharp (2005, cap. 8, seç. 8.2.3, p. 263, 2º parágrafo), uma série de desenhos que mostra como um usuário pode progredir em uma tarefa utilizando o produto em desenvolvimento, geralmente em conjunto com cenários.
 
@@ -70,7 +73,7 @@ Os dois reconheceram a sequência dos quadros e entenderam a meta da persona no 
 
 A versão em PDF do storyboard está disponível para download: [Storyboard – Agendamento da prova teórica](arquivos/storyboard-agendamento-prova-teorica.pdf).
 
-## Referências
+## Referências bibliográficas
 
 GRUPO 03. *Relatório da Entrega 2*: Perfil do Usuário, Aspectos Éticos e Análise de Tarefas. Brasília: Universidade de Brasília, 2026.
 
@@ -78,10 +81,12 @@ GRUPO 03. *Relatório da Entrega 5*: Relato do Storyboard e da HTA e Planejament
 
 PREECE, Jennifer; ROGERS, Yvonne; SHARP, Helen. *Design de interação*: além da interação homem-computador. Porto Alegre: Bookman, 2005.
 
-SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2026a.
-
 SALES, André Barros de. *Lista de exercícios*: Capítulo 8: Design, Prototipação e Construção. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2026b.
+
+SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1. Brasília: Universidade de Brasília, Faculdade UnB Gama, 2026a.
 
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 25/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar esta página a partir do Relatório da Entrega 5 e dos documentos individuais do autor. Não foram gerados dados de participantes, datas de sessão ou resultados. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026a, p. 3).
+
+**Padronização do formato (10/11/2026).** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar o formato desta página no modelo adotado pelo grupo: seção de referências renomeada para "Referências bibliográficas"; primeira seção identificada como introdução, com parágrafo de apresentação do artefato. O conteúdo do autor não foi alterado. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

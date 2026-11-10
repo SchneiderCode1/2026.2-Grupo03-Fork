@@ -20,9 +20,12 @@ Fonte: elaborado a partir dos materiais fornecidos por Alexandre Vilar (2026).
 | 25/10/2026 | 1.1 | Registro do perfil disponível, sessão definitiva, análise operacional do piloto e ligação ao relato | Alexandre Vilar, com apoio do ChatGPT | — |
 | 25/10/2026 | 1.2 | Sincronização com P2, registros coletivos e resultados da conferência documental do Fluxo 5 | Alexandre Vilar, com apoio do ChatGPT | — |
 | 25/10/2026 | 1.3 | Registro dos dados informados pelo autor sobre sessões, piloto, ajustes e planejamento provisório | Alexandre Vilar, com apoio do ChatGPT | — |
+| 10/11/2026 | 1.4 | Padronização do formato no modelo do grupo (detalhes na seção de uso de IA generativa) | Henrique Schneider | — |
 Fonte: registro desta versão (2026).
 
-## 1. Objetivo e escopo
+## 1. Introdução: objetivo e escopo
+
+Esta página reúne o material **Avaliação da HTA e do Storyboard – Alexandre Vilar**, elaborado por Alexandre Vilar na Entrega 5 do projeto do Grupo 03 sobre o Portal do Detran-DF.
 
 Investigar como o participante compreende a tarefa de obter informações e escolher uma empresa credenciada para vistoria de transferência de propriedade; validar a decomposição do HTA e avaliar a compreensão e a utilidade percebida da proposta de agendamento apresentada no storyboard.
 
@@ -113,6 +116,7 @@ O participante do piloto ajudou na preparação do material. Isso diverge da rec
 Para o próximo piloto, relativo ao protótipo de papel, deverá ser convidada uma pessoa que não tenha colaborado no planejamento e na preparação dessa nova avaliação. O piloto do storyboard de 24/10 não substitui esse ensaio futuro.
 
 ## 6. Vídeo da entrevista
+
 - O consentimento foi obtido por meio do TCLE que foi apresentado ao entrevistado;
 - Houve autorização para gravar;
 - Houve autorização para divulgar a gravação;
@@ -137,9 +141,11 @@ Analisar inicialmente cada participante separadamente, relacionando as falas e o
 
 Permanecem a definir os horários, a confirmação dos participantes e do local, a divisão final dos papéis e o tempo estimado de cada tarefa do protótipo. O perfil e a duração total de PP01 não foram detalhados; isso fica registrado como limite documental do piloto já realizado.
 
-## Referências
+## Referências bibliográficas
 
-BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. 2021.
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. E-book.
+
+SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1. Brasília: Universidade de Brasília, 2026.
 
 ## Agradecimentos e uso de IA generativa
 
@@ -148,3 +154,5 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selba
 **Atualização com IA generativa em 25/10/2026.** O ChatGPT (OpenAI), a pedido de Alexandre Vilar, auxiliou na consolidação dos registros, na análise das transcrições do piloto e da entrevista e na atualização desta página. As interpretações e as recomendações são análises, não falas literais dos participantes. Não foram inventados dados pessoais, datas de sessão ou resultados.
 
 **Dados complementares informados pelo autor em 25/10/2026.** Alexandre Vilar forneceu os dados retrospectivos das sessões e as intenções para a próxima avaliação. Datas e locais futuros permanecem provisórios; a indicação de João Vitor como revisor não significa que a revisão foi concluída.
+
+**Padronização do formato (10/11/2026).** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar o formato desta página no modelo adotado pelo grupo: seção de referências renomeada para "Referências bibliográficas"; primeira seção identificada como introdução, com parágrafo de apresentação do artefato. O conteúdo do autor não foi alterado. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

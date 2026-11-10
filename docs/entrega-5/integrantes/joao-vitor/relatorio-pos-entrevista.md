@@ -20,10 +20,13 @@ Fonte: materiais e registros fornecidos pelo responsável (2026).
 | 25/10/2026 | 1.1 | Inclusão do link da entrevista definitiva e manutenção dos resultados como pendentes de análise | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | — |
 | 25/10/2026 | 1.2 | Registro do consentimento formal e preservação de anonimato do participante | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | — |
 | 25/10/2026 | 1.3 | Consolidação dos resultados da entrevista a partir do registro resumido das respostas | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | — |
+| 10/11/2026 | 1.4 | Padronização do formato no modelo do grupo (detalhes na seção de uso de IA generativa) | Henrique Schneider | — |
 
 Fonte: registro desta versão (2026).
 
-## 1. Identificação e objetivo
+## 1. Introdução: identificação e objetivo
+
+Esta página reúne o material **Relatório Pós-Entrevista – João Vitor**, elaborado por João Vitor na Entrega 5 do projeto do Grupo 03 sobre o Portal do Detran-DF.
 
 Projeto: Interação Humano-Computador, Grupo 03, Entrega 5. Material individual: João Vitor. Cenário: agendamento e gerenciamento de biometria no Detran-DF.
 
@@ -147,12 +150,16 @@ Os resultados apoiam principalmente a manutenção das funções de **reconfirma
 
 Fonte: análise dos registros da entrevista (2026).
 
-## Referências
+## Referências bibliográficas
 
-BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. 2021.
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. E-book.
+
+SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1. Brasília: Universidade de Brasília, 2026.
 
 ## Agradecimentos e uso de IA generativa
 
 Em 25/10/2026, o ChatGPT (OpenAI) foi utilizado, a pedido de João Vitor, para organizar o registro resumido das respostas em formato de relatório, separar evidências de interpretações e estruturar recomendações. Não foram criadas falas literais, horários ou respostas não fornecidas pelo responsável.
 
 [Voltar à avaliação individual](avaliacao.md).
+
+**Padronização do formato (10/11/2026).** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar o formato desta página no modelo adotado pelo grupo: seção de referências renomeada para "Referências bibliográficas"; primeira seção identificada como introdução, com parágrafo de apresentação do artefato. O conteúdo do autor não foi alterado. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

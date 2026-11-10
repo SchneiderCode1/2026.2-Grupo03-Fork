@@ -18,6 +18,7 @@ Fonte: materiais disponibilizados pelo responsável (2026).
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Criação e organização da página no padrão individual da Entrega 5 | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | — |
 | 25/10/2026 | 1.1 | Atualização do status dos vídeos e do relatório pós-entrevista | João Vitor Tavares de Sá Lima, com apoio do ChatGPT | — |
+| 10/11/2026 | 1.2 | Padronização do formato no modelo do grupo (detalhes na seção de uso de IA generativa) | Henrique Schneider | — |
 
 Fonte: registro desta versão (2026).
 
@@ -53,10 +54,14 @@ A [avaliação individual](avaliacao.md) registra o método e o escopo. O [relat
 
 O [planejamento individual da Entrega 4](../../../entrega-4/integrantes/joao-vitor/planejamento-individual.md) permanece como registro da etapa anterior.
 
-## Referências
+## Referências bibliográficas
 
-BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. 2021.
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. E-book.
+
+SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1. Brasília: Universidade de Brasília, 2026.
 
 ## Agradecimentos e uso de IA generativa
 
 Em 25/10/2026, o ChatGPT (OpenAI) foi utilizado, a pedido de João Vitor, para apoiar a organização das páginas Markdown conforme o padrão da Entrega 5 e a transcrição estrutural dos artefatos enviados. Não foram inventadas falas de participantes, resultados de entrevistas, datas de sessão ou links de gravações. A responsabilidade pela revisão acadêmica do conteúdo é do autor.
+
+**Padronização do formato (10/11/2026).** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar o formato desta página no modelo adotado pelo grupo: seção de referências renomeada para "Referências bibliográficas". O conteúdo do autor não foi alterado. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

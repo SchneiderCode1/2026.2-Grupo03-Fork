@@ -20,6 +20,7 @@ Fonte: elaborado a partir dos materiais fornecidos por Alexandre Vilar (2026).
 | 25/10/2026 | 1.1 | Atualização dos materiais publicados, situação da avaliação e pendências de registro | Alexandre Vilar, com apoio do ChatGPT | — |
 | 25/10/2026 | 1.2 | Sincronização com P2, registros coletivos e resultados da conferência documental do Fluxo 5 | Alexandre Vilar, com apoio do ChatGPT | — |
 | 25/10/2026 | 1.3 | Atualização da situação com dados confirmados das sessões e intenções para o protótipo | Alexandre Vilar, com apoio do ChatGPT | — |
+| 10/11/2026 | 1.4 | Padronização do formato no modelo do grupo (detalhes na seção de uso de IA generativa) | Henrique Schneider | — |
 Fonte: registro desta versão (2026).
 
 ## 1. Introdução
@@ -58,9 +59,11 @@ O [planejamento individual da Entrega 4](../../../entrega-4/integrantes/alexandr
 
 A consolidação inclui as respostas de P2, PS08 e seu reprojeto, a conferência documental do Fluxo 5 e o escopo preparatório do protótipo de papel. Alexandre pretende avaliar o protótipo com duas pessoas habilitadas, possivelmente em sua casa até 28/10/2026. João Vitor dará apoio e será o revisor previsto. Data e horários exatos, confirmação dos participantes e distribuição final dos papéis continuam pendentes. Consulte as [seções 1 e 2](../../relatorio-do-grupo.md) e a [parte de Alexandre no protótipo](../../relatorio-do-grupo.md#382-escopo-preparatorio-do-prototipo-de-papel-alexandre-vilar).
 
-## Referências
+## Referências bibliográficas
 
-BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. 2021.
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. E-book.
+
+SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1. Brasília: Universidade de Brasília, 2026.
 
 ## Agradecimentos e uso de IA generativa
 
@@ -69,3 +72,5 @@ BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selba
 **Atualização com IA generativa em 25/10/2026.** O ChatGPT (OpenAI), a pedido de Alexandre Vilar, auxiliou na consolidação dos registros, na análise das transcrições do piloto e da entrevista e na atualização desta página. As interpretações e as recomendações são análises, não falas literais dos participantes. Não foram inventados dados pessoais, datas de sessão ou resultados.
 
 **Dados complementares informados pelo autor em 25/10/2026.** Alexandre Vilar forneceu os dados retrospectivos das sessões e as intenções para a próxima avaliação. Datas e locais futuros permanecem provisórios; a indicação de João Vitor como revisor não significa que a revisão foi concluída.
+
+**Padronização do formato (10/11/2026).** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar o formato desta página no modelo adotado pelo grupo: seção de referências renomeada para "Referências bibliográficas". O conteúdo do autor não foi alterado. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

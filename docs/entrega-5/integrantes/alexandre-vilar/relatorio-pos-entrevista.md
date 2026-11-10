@@ -20,13 +20,20 @@ Fonte: elaborado a partir dos materiais fornecidos por Alexandre Vilar (2026).
 | 25/10/2026 | 1.1 | Publicação da análise das dez questões, evidências, limitações e encaminhamentos | Alexandre Vilar, com apoio do ChatGPT | — |
 | 25/10/2026 | 1.2 | Sincronização com P2, registros coletivos e resultados da conferência documental do Fluxo 5 | Alexandre Vilar, com apoio do ChatGPT | — |
 | 25/10/2026 | 1.3 | Inclusão de local, modalidade, recrutamento, duração, limite do piloto e revisão prevista | Alexandre Vilar, com apoio do ChatGPT | — |
+| 10/11/2026 | 1.4 | Padronização do formato no modelo do grupo (detalhes na seção de uso de IA generativa) | Henrique Schneider | — |
 Fonte: registro desta versão (2026).
 
-## 1. Identificação e objetivo
+## 1. Introdução: identificação e objetivo
+
+Esta página reúne o material **Relatório Pós-Entrevista – Alexandre Vilar**, elaborado por Alexandre Vilar na Entrega 5 do projeto do Grupo 03 sobre o Portal do Detran-DF.
 
 Projeto: Interação Humano-Computador, Grupo 03, Entrega 5. Material individual: Alexandre Vilar. Cenário: vistoria veicular para transferência de propriedade.
 
 Objetivo: analisar as dificuldades relatadas na busca de orientações para vistoria, examinar a correspondência percebida do HTA com a tarefa e avaliar compreensão, utilidade e preferência em relação ao storyboard de agendamento pelo portal.
+
+O conteúdo a seguir está organizado na Tabela 3.
+
+**Tabela 3 – Identificação e objetivo**
 
 | Campo | Registro |
 | --- | --- |
@@ -38,6 +45,8 @@ Objetivo: analisar as dificuldades relatadas na busca de orientações para vist
 | Local e modalidade | Casa de Alexandre; presencial, conforme informação do responsável. |
 | Duração total da sessão | Aproximadamente 10 minutos, estimativa informada por Alexandre. |
 | Data deste relatório | 25/10/2026; não corresponde necessariamente à data da sessão. |
+
+Fonte: elaborado pelo autor (2026).
 
 ## 2. Método e procedimento registrado
 
@@ -115,12 +124,18 @@ As respostas foram analisadas individualmente, relacionando cada evidência às 
 
 Os relatos de Q01 a Q03 convergem para dificuldades de localizar orientações e identificar uma empresa credenciada. Q05 registra reconhecimento da correspondência do HTA com o caminho percebido, acompanhado de complexidade. Q06 a Q10 indicam recepção favorável da proposta, com evidência insuficiente sobre o funcionamento de suas escolhas específicas.
 
+O conteúdo a seguir está organizado na Tabela 4.
+
+**Tabela 4 – Síntese dos achados e recomendações**
+
 | Achado | Evidência e impacto relatado | Recomendação do avaliador |
 | --- | --- | --- |
 | A1. Localização pouco clara | Q01-Q03, 1:58-3:26. P01 relata não encontrar o serviço e as informações para escolher a empresa. | Tornar mais visível o acesso às orientações de vistoria por finalidade e à relação de empresas credenciadas. Verificar a dificuldade em uma tarefa observada. |
 | A2. Preparação sem informações suficientes | Q02 e Q04, 2:38-2:59 e 3:29-4:01. P01 sente falta de orientação e cita as informações que esperaria obter. | Organizar modalidade, local, credenciamento e preparação em um percurso claro. Na proposta de agendamento, apresentar resumo e confirmação. Não transformar expectativas em requisitos oficiais sem conferência. |
 | A3. Caminho percebido como complexo | Q01 e Q05, 2:11-2:37 e 4:27-5:34. São mencionados encaminhamentos e dificuldade de compreensão. | Revisar rótulos e encadeamento das orientações; prototipar uma alternativa e testar se reduz dúvidas. |
 | A4. Escolhas do redesign ainda pouco verificadas | Q06-Q07, 5:36-7:00. As respostas tratam do benefício geral, sem explicar as escolhas passo a passo. | Em próxima avaliação, usar um protótipo que permita selecionar local, data e horário e revisar a confirmação. |
+
+Fonte: elaborado pelo autor (2026).
 
 As recomendações acima são interpretações do avaliador, apoiadas nas evidências indicadas. Não equivalem a funcionalidades implementadas nem a sugestões literais de P01. Não foi atribuída uma classificação formal de gravidade: o registro não permite medir frequência, recorrência ou impacto em diferentes perfis.
 
@@ -150,18 +165,13 @@ Nesta entrevista, P01 relatou dificuldade para localizar orientações de vistor
 
 As evidências justificam investigar melhorias na visibilidade e na organização das orientações e testar a proposta de agendamento em um protótipo. Ainda não permitem concluir que o redesign reduza o tempo de execução ou que suas etapas específicas estejam validadas. A interpretação das escolhas de local, data e horário permanece uma questão a aprofundar.
 
-## Referências
-
-GRAVAÇÃO DA ENTREVISTA. Proposta de agendamento de vistoria do Detran-DF. YouTube, vídeo U1eg2EeanWg, duração exibida de 8min58s. Disponível em: [YouTube](https://www.youtube.com/watch?v=U1eg2EeanWg). Data da sessão: 25/10/2026; local: casa de Alexandre; modalidade: presencial; duração total estimada em cerca de 10 minutos, conforme registro coletivo e informações complementares do autor.
-
-BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. Interação Humano-Computador e Experiência do Usuário. 2021. Seções 11.7.4 e 11.7.5, pp. 262-263; seção 11.8, p. 264.
-
-
-Os resultados foram incorporados ao [relatório coletivo](../../relatorio-do-grupo.md), com a equivalência P01/P2 e a identificação do Fluxo 5. PS08 propõe severidade 3 para a dificuldade de localização, como julgamento exploratório a revisar. PH05–PH07 registram lacunas do modelo; não são apresentados como correções já feitas nos diagramas.
-
 ## 8. Encaminhamento das recomendações
 
 **Tabela – Decisões de escopo e encaminhamentos**
+
+O conteúdo a seguir está organizado na Tabela 5.
+
+**Tabela 5 – Encaminhamento das recomendações**
 
 | Item | Encaminhamento nesta versão | Fundamentação |
 | --- | --- | --- |
@@ -173,10 +183,6 @@ Os resultados foram incorporados ao [relatório coletivo](../../relatorio-do-gru
 
 Fonte: decisões anteriores do autor e análise desta entrevista. Recomendações para próxima iteração não equivalem a compromissos ou alterações executadas.
 
-## Agradecimentos e uso de IA generativa
-
-O relato foi preparado com apoio do ChatGPT (OpenAI), a pedido de Alexandre Vilar, a partir da transcrição automática da gravação. As evidências estão indicadas por horários aproximados; os dados não foram fabricados. Os dados da sessão foram complementados pelo autor. João Vitor é o revisor previsto; a conferência dos trechos e da análise ainda não está registrada como concluída.
-
 ## Revisão prevista
 
 João Vitor foi indicado por Alexandre como revisor previsto dos materiais. A revisão ainda não está registrada como realizada; por isso, os históricos não o apresentam como revisor de uma versão já conferida.
@@ -186,3 +192,19 @@ João Vitor foi indicado por Alexandre como revisor previsto dos materiais. A re
 **Atualização com IA generativa em 25/10/2026.** O ChatGPT (OpenAI), a pedido de Alexandre Vilar, auxiliou na consolidação dos registros, na análise das transcrições do piloto e da entrevista e na atualização desta página. As interpretações e as recomendações são análises, não falas literais dos participantes. Não foram inventados dados pessoais, datas de sessão ou resultados.
 
 **Dados complementares informados pelo autor em 25/10/2026.** Alexandre Vilar forneceu os dados retrospectivos das sessões e as intenções para a próxima avaliação. Datas e locais futuros permanecem provisórios; a indicação de João Vitor como revisor não significa que a revisão foi concluída.
+
+## Referências bibliográficas
+
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. E-book.
+
+GRAVAÇÃO DA ENTREVISTA. Proposta de agendamento de vistoria do Detran-DF. YouTube, vídeo U1eg2EeanWg, duração exibida de 8min58s. Disponível em: [YouTube](https://www.youtube.com/watch?v=U1eg2EeanWg). Data da sessão: 25/10/2026; local: casa de Alexandre; modalidade: presencial; duração total estimada em cerca de 10 minutos, conforme registro coletivo e informações complementares do autor.
+
+Os resultados foram incorporados ao [relatório coletivo](../../relatorio-do-grupo.md), com a equivalência P01/P2 e a identificação do Fluxo 5. PS08 propõe severidade 3 para a dificuldade de localização, como julgamento exploratório a revisar. PH05–PH07 registram lacunas do modelo; não são apresentados como correções já feitas nos diagramas.
+
+SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1. Brasília: Universidade de Brasília, 2026.
+
+## Agradecimentos e uso de IA generativa
+
+O relato foi preparado com apoio do ChatGPT (OpenAI), a pedido de Alexandre Vilar, a partir da transcrição automática da gravação. As evidências estão indicadas por horários aproximados; os dados não foram fabricados. Os dados da sessão foram complementados pelo autor. João Vitor é o revisor previsto; a conferência dos trechos e da análise ainda não está registrada como concluída.
+
+**Padronização do formato (10/11/2026).** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar o formato desta página no modelo adotado pelo grupo: seção de referências renomeada para "Referências bibliográficas"; primeira seção identificada como introdução, com parágrafo de apresentação do artefato; inclusão de legendas numeradas, com fonte e chamada no texto, nas tabelas e figuras que não tinham. O conteúdo do autor não foi alterado. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).

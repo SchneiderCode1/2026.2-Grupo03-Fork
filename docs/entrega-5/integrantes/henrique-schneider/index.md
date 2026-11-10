@@ -18,6 +18,7 @@ Fonte: elaborado pelo autor (2026).
 | --- | --- | --- | --- | --- |
 | 25/10/2026 | 1.0 | Publicação da visão geral do material de Henrique Schneider na Entrega 5 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
 | 25/10/2026 | 1.1 | Inclusão do vídeo de apresentação da Entrega 5 | Henrique Schneider, com apoio do Claude (IA generativa) | Gabriel Robson |
+| 10/11/2026 | 1.2 | Padronização do formato no modelo do grupo (detalhes na seção de uso de IA generativa) | Henrique Schneider | — |
 
 Fonte: elaborado pelo autor (2026).
 
@@ -48,7 +49,7 @@ Estão publicados o storyboard, a HTA (v1.2), o roteiro (v1.2), o relato dos res
 
 O planejamento da avaliação do protótipo de papel está na [seção 3.8.1 do relatório do grupo](../../relatorio-do-grupo.md#381-prototipo-de-papel-e-sessoes-henrique-schneider) e na [página do protótipo](prototipo-papel.md). O [planejamento individual da Entrega 4](../../../entrega-4/integrantes/henrique-schneider/planejamento-individual.md) permanece como registro da etapa anterior.
 
-## Referências
+## Referências bibliográficas
 
 GRUPO 03. *Relatório da Entrega 2*: Perfil do Usuário, Aspectos Éticos e Análise de Tarefas. Brasília: Universidade de Brasília, 2026a.
 
@@ -59,3 +60,5 @@ SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA01
 ## Agradecimentos e uso de IA generativa
 
 **Uso de IA generativa nesta página.** Em 25/10/2026, o Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar esta página a partir do Relatório da Entrega 5 e dos documentos individuais do autor. Não foram gerados dados de participantes, datas de sessão ou resultados. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
+
+**Padronização do formato (10/11/2026).** O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para padronizar o formato desta página no modelo adotado pelo grupo: seção de referências renomeada para "Referências bibliográficas". O conteúdo do autor não foi alterado. A ferramenta não é autora do artefato e seu uso não exime o autor da responsabilidade sobre o conteúdo (SALES, 2026, p. 3).
