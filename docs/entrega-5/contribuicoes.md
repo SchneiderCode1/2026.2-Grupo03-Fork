@@ -26,6 +26,7 @@ Fonte: materiais fornecidos para esta atualização (2026). As demais contribui�
 | 25/10/2026 | 1.4 | Inclusão dos materiais de Henrique Schneider | Henrique Schneider, com apoio do Claude | Gabriel Robson |
 | 25/10/2026 | 1.5 | Registro da consolidação de Alexandre, conferência do Fluxo 5 e escopo preparatório do protótipo | Alexandre Vilar, com apoio do ChatGPT | — |
 | 25/10/2026 | 1.6 | Registro do apoio e revisão previstos de João Vitor e da logística provisória do protótipo | Alexandre Vilar, com apoio do ChatGPT | — |
+| 10/11/2026 | 1.7 | Seção de uso de IA movida para o fim da página e inclusão das referências bibliográficas | Henrique Schneider | — |
 
 ## 1. Introdução
 
@@ -48,13 +49,6 @@ Esta matriz acompanha os materiais incorporados à [Entrega 5](relatorio.md). As
 | Preparação da avaliação do protótipo de vistoria | [Escopo de Alexandre](relatorio-do-grupo.md#382-escopo-preparatorio-do-prototipo-de-papel-alexandre-vilar) | Meta de duas pessoas e apoio de João Vitor; prazo até 28/10 e local são provisórios |
 
 Fonte: materiais desta atividade (2026).
-
-## Agradecimentos e uso de IA generativa
-
-**Uso de IA generativa nesta página.** Em 25/10/2026, o ChatGPT (OpenAI) foi utilizado, a pedido de Alexandre Vilar, para apoiar a organização do conteúdo, a redação das páginas, a estruturação dos HTAs e a adaptação das perguntas do livro. O storyboard foi desenhado por Alexandre e mantido na versão fornecida. Não foram gerados dados de participantes, resultados ou registros de entrevistas. A responsabilidade pelo conteúdo e pela revisão é dos autores.
-
-**Atualização com IA generativa em 25/10/2026.** O ChatGPT (OpenAI), a pedido de Alexandre Vilar, auxiliou na consolidação dos registros, na análise das transcrições do piloto e da entrevista e na atualização desta página. As interpretações e as recomendações são análises, não falas literais dos participantes. Não foram inventados dados pessoais, datas de sessão ou resultados.
-
 
 ## 3. Materiais de João Vitor
 
@@ -88,8 +82,20 @@ Fonte: materiais fornecidos por João Vitor (2026).
 
 Fonte: materiais fornecidos por Henrique Schneider (2026). O Claude (Anthropic) foi utilizado, a pedido de Henrique Schneider, para organizar esta seção.
 
-## Revisão prevista dos materiais de Alexandre
+## 5. Revisão prevista dos materiais de Alexandre
 
 João Vitor foi indicado por Alexandre como revisor previsto dos materiais. A revisão ainda não está registrada como realizada; por isso, os históricos não o apresentam como revisor de uma versão já conferida.
 
 **Dados complementares informados pelo autor em 25/10/2026.** Alexandre Vilar forneceu os dados retrospectivos das sessões e as intenções para a próxima avaliação. Datas e locais futuros permanecem provisórios; a indicação de João Vitor como revisor não significa que a revisão foi concluída.
+
+## Referências bibliográficas
+
+SALES, André Barros de. *Plano de Ensino*: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1. Brasília: Universidade de Brasília, 2026.
+
+## Agradecimentos e uso de IA generativa
+
+**Uso de IA generativa nesta página.** Em 25/10/2026, o ChatGPT (OpenAI) foi utilizado, a pedido de Alexandre Vilar, para apoiar a organização do conteúdo, a redação das páginas, a estruturação dos HTAs e a adaptação das perguntas do livro. O storyboard foi desenhado por Alexandre e mantido na versão fornecida. Não foram gerados dados de participantes, resultados ou registros de entrevistas. A responsabilidade pelo conteúdo e pela revisão é dos autores.
+
+**Atualização com IA generativa em 25/10/2026.** O ChatGPT (OpenAI), a pedido de Alexandre Vilar, auxiliou na consolidação dos registros, na análise das transcrições do piloto e da entrevista e na atualização desta página. As interpretações e as recomendações são análises, não falas literais dos participantes. Não foram inventados dados pessoais, datas de sessão ou resultados.
+
+**Padronização do formato (10/11/2026).** O Claude (Anthropic), a pedido de Henrique Schneider, foi utilizado para mover esta seção para o fim da página e incluir as referências. O conteúdo não foi alterado (SALES, 2026, p. 3).

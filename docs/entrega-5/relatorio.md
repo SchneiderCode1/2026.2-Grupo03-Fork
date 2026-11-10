@@ -7,7 +7,7 @@
 | Integrante | Contribuição incorporada | Atividade (link) | Gravação (link) |
 | --- | --- | --- | --- |
 | Alexandre Vilar Valadares Fonsêca | Storyboard, HTAs, roteiro fundamentado, registros do piloto e da entrevista e relato individual dos resultados, com apoio de IA | [Material individual](integrantes/alexandre-vilar/index.md) | [Entrevista](integrantes/alexandre-vilar/video-entrevista.md) |
-| Gabriel Robson Nunes Neiva da Silva | Material a incorporar nesta seção | — | — |
+| Gabriel Robson Nunes Neiva da Silva | Proposta “Renova CNH Fácil”: HTA de referência, HTA do redesign, roteiro textual do storyboard, roteiro de avaliação e protótipo demonstrativo; avaliação com participantes não realizada, conforme a página do autor | [Material individual](integrantes/gabriel-robson/index.md) | — |
 | Henrique Schneider Fernandes da Rosa | Storyboard, HTA, roteiro, entrevistas com P1 e P2, relato individual dos resultados, planejamento individual do protótipo de papel e relatório do grupo, com apoio de IA | [Material individual](integrantes/henrique-schneider/index.md) | [Vídeos](integrantes/henrique-schneider/video-entrevista.md) |
 | João Vitor Tavares de Sá Lima | HTAs de agendamento e gerenciamento de biometria, storyboard, roteiro, avaliação e relato dos resultados | [Material individual](integrantes/joao-vitor/index.md) | [Vídeos](integrantes/joao-vitor/video-entrevista.md) |
 
@@ -26,6 +26,7 @@ Fonte: materiais disponibilizados para esta organização (2026). A tabela não 
 | 25/10/2026 | 1.4 | Inclusão dos materiais de Henrique Schneider e do relatório do grupo (Google Docs, v1.8) | Henrique Schneider, com apoio do Claude | Gabriel Robson |
 | 25/10/2026 | 1.5 | Inclusão da consolidação de Alexandre no relatório do grupo e sincronização do perfil de P2 | Alexandre Vilar, com apoio do ChatGPT | — |
 | 25/10/2026 | 1.6 | Atualização dos dados confirmados da entrevista e do piloto de Alexandre e do planejamento provisório | Alexandre Vilar, com apoio do ChatGPT | — |
+| 10/11/2026 | 1.7 | Inclusão dos materiais de Gabriel Robson nas Tabelas 1 e 4, remissão à lista de verificação e à inspeção do Grupo 08 (seção 6) e padronização das referências | Henrique Schneider | — |
 Fonte: histórico da página e registro desta atualização (2026).
 
 ## 1. Identificação
@@ -62,6 +63,7 @@ O [planejamento da Entrega 4](../entrega-4/relatorio.md) é a referência da eta
 | Materiais de Alexandre | [Visão geral](integrantes/alexandre-vilar/index.md) | Organizados |
 | Materiais de João Vitor | [Visão geral](integrantes/joao-vitor/index.md) | HTAs, storyboard, roteiro, avaliação, gravações e relato publicados |
 | Materiais de Henrique Schneider | [Visão geral](integrantes/henrique-schneider/index.md) | Storyboard, HTA, roteiro, vídeos, transcrições, relato e planejamento do protótipo de papel publicados |
+| Materiais de Gabriel Robson | [Visão geral](integrantes/gabriel-robson/index.md) | HTAs, roteiro textual do storyboard, roteiro de avaliação e protótipo demonstrativo publicados; avaliação não realizada |
 | Relatório do grupo | [Relatório do grupo](relatorio-do-grupo.md) | Publicado a partir do Google Docs (v1.8) |
 | HTA do processo atual | [HTA atual](integrantes/alexandre-vilar/hta-atual.md) | Avaliação exploratória registrada; validação parcial |
 | Storyboard | [Storyboard](integrantes/alexandre-vilar/storyboard.md) | Narrativa e imagem publicadas |
@@ -115,11 +117,11 @@ O [relatório coletivo](relatorio-do-grupo.md) incorpora as respostas de P2, a r
 
 ## 6. Inspeção e verificação
 
-O registro da inspeção da Entrega 5 e as listas específicas serão incorporados quando disponibilizados pelo grupo. Nenhuma inspeção é apresentada como concluída nesta versão.
+A lista de verificação da Entrega 5 está em [Lista de verificação](verificacao/lista-de-verificacao.md), e o resultado da inspeção feita pelo Grupo 03 na Entrega 5 do Grupo +1 (Grupo 08) está em [Inspeção do Grupo 08](verificacao/inspecao-grupo-08.md).
 
-## Referências
+## Referências bibliográficas
 
-BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. 2021.
+BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da; SILVEIRA, Milene Selbach; GASPARINI, Isabela; DARIN, Ticianne; BARBOSA, Gabriel Diniz Junqueira. *Interação Humano-Computador e Experiência do Usuário*. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. E-book.
 
 SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA0173), 02/2026, Turma 01, v1*. Brasília: Universidade de Brasília, 2026. [Consultar](../disciplina/plano-de-ensino.md).
 
@@ -132,3 +134,5 @@ SALES, André Barros de. *Plano de Ensino: Interação Humano Computador (FGA017
 **Atualização com IA generativa em 25/10/2026 (Henrique Schneider).** O Claude (Anthropic), a pedido de Henrique Schneider, auxiliou na inclusão dos materiais de Henrique Schneider e do relatório do grupo nesta página. Não foram gerados dados de participantes, datas de sessão ou resultados.
 
 **Dados complementares informados pelo autor em 25/10/2026.** Alexandre Vilar forneceu os dados retrospectivos das sessões e as intenções para a próxima avaliação. Datas e locais futuros permanecem provisórios; a indicação de João Vitor como revisor não significa que a revisão foi concluída.
+
+**Atualização em 10/11/2026.** O Claude (Anthropic), a pedido de Henrique Schneider, foi utilizado para incluir nas Tabelas 1 e 4 os materiais de Gabriel Robson já publicados no site, ligar a seção 6 às páginas de verificação existentes e padronizar as referências. Nenhum dado de avaliação foi gerado.
