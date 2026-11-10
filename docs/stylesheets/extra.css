@@ -560,3 +560,172 @@ body {
 .md-typeset .entrega5-reserva--relatorio {
     min-height: 220px;
 }
+
+/* ------------------------------------------------------------------
+   Barra de acessibilidade (tamanho do texto e alto contraste)
+   Script: docs/javascripts/acessibilidade.js
+   ------------------------------------------------------------------ */
+.md-content .md-typeset {
+  font-size: calc(0.8rem * var(--g03-fator-fonte, 1));
+}
+
+.md-sidebar .md-nav {
+  font-size: calc(0.7rem * var(--g03-fator-fonte, 1));
+}
+
+.g03-a11y {
+  display: flex;
+  align-items: center;
+  gap: 0.15rem;
+  margin: 0 0.4rem;
+}
+
+.g03-a11y__botao {
+  min-width: 1.9rem;
+  height: 1.9rem;
+  padding: 0 0.35rem;
+  border: 1px solid currentColor;
+  border-radius: 0.3rem;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-size: 0.7rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.g03-a11y__botao:hover,
+.g03-a11y__botao:focus-visible,
+.g03-a11y__botao[aria-pressed="true"] {
+  background: rgba(255, 255, 255, 0.22);
+  outline: 2px solid currentColor;
+  outline-offset: 1px;
+}
+
+.g03-a11y__valor {
+  min-width: 2.4rem;
+  font-size: 0.6rem;
+  text-align: center;
+}
+
+@media screen and (max-width: 44.9375em) {
+  .g03-a11y__valor {
+    display: none;
+  }
+}
+
+/* Alto contraste: fundo preto, texto branco, links amarelos (vale para os dois esquemas) */
+html.g03-alto-contraste body,
+html.g03-alto-contraste .md-main,
+html.g03-alto-contraste .md-content,
+html.g03-alto-contraste .md-sidebar,
+html.g03-alto-contraste .md-nav,
+html.g03-alto-contraste .md-footer,
+html.g03-alto-contraste .md-footer-meta {
+  background: #000 !important;
+  color: #fff !important;
+}
+
+html.g03-alto-contraste .md-nav__title,
+html.g03-alto-contraste .md-header,
+html.g03-alto-contraste .md-tabs {
+  background: #000 !important;
+  color: #fff !important;
+  border-bottom: 2px solid #ffeb3b;
+  box-shadow: none !important;
+}
+
+html.g03-alto-contraste .md-typeset,
+html.g03-alto-contraste .md-typeset h1,
+html.g03-alto-contraste .md-typeset h2,
+html.g03-alto-contraste .md-typeset h3,
+html.g03-alto-contraste .md-typeset h4,
+html.g03-alto-contraste .md-nav__link,
+html.g03-alto-contraste .md-tabs__link {
+  color: #fff !important;
+}
+
+html.g03-alto-contraste .md-typeset a,
+html.g03-alto-contraste .md-nav__link--active,
+html.g03-alto-contraste .md-nav__link:hover {
+  color: #ffeb3b !important;
+  text-decoration: underline;
+}
+
+html.g03-alto-contraste .md-typeset table:not([class]),
+html.g03-alto-contraste .md-typeset table:not([class]) th,
+html.g03-alto-contraste .md-typeset table:not([class]) td {
+  background: #000 !important;
+  color: #fff !important;
+  border: 1px solid #fff !important;
+}
+
+html.g03-alto-contraste .md-typeset code,
+html.g03-alto-contraste .md-typeset pre,
+html.g03-alto-contraste .md-typeset .admonition,
+html.g03-alto-contraste .md-typeset details,
+html.g03-alto-contraste .hero-panel,
+html.g03-alto-contraste .project-card,
+html.g03-alto-contraste .team-card {
+  background: #000 !important;
+  color: #fff !important;
+  border: 1px solid #fff !important;
+  box-shadow: none !important;
+}
+
+html.g03-alto-contraste .md-typeset img {
+  background: #fff;
+}
+
+html.g03-alto-contraste :focus-visible {
+  outline: 3px solid #ffeb3b !important;
+  outline-offset: 2px;
+}
+
+/* Vídeos incorporados (página de apresentações) */
+.g03-video {
+  position: relative;
+  width: 100%;
+  max-width: 48rem;
+  margin: 1rem 0;
+  aspect-ratio: 16 / 9;
+}
+
+.g03-video iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  border-radius: 0.4rem;
+}
+
+html.g03-alto-contraste [data-md-color-scheme] {
+  --md-default-bg-color: #000;
+  --md-default-fg-color: #fff;
+  --md-default-fg-color--light: #fff;
+  --md-default-fg-color--lighter: #fff;
+  --md-primary-fg-color: #000;
+  --md-primary-bg-color: #fff;
+  --md-accent-fg-color: #ffeb3b;
+  --md-typeset-a-color: #ffeb3b;
+  --md-code-bg-color: #000;
+  --md-code-fg-color: #fff;
+}
+
+html.g03-alto-contraste .hero-visual,
+html.g03-alto-contraste .hero-copy {
+  background: #000 !important;
+}
+
+html.g03-alto-contraste .hero-panel p,
+html.g03-alto-contraste .hero-lead,
+html.g03-alto-contraste .hero-kicker,
+html.g03-alto-contraste .hero-project-summary,
+html.g03-alto-contraste .project-rule,
+html.g03-alto-contraste .project-card strong,
+html.g03-alto-contraste .project-card span,
+html.g03-alto-contraste .team-card strong,
+html.g03-alto-contraste .team-card span {
+  color: #fff !important;
+}

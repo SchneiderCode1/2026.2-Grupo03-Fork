@@ -17,6 +17,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.indexes
     - navigation.expand
     - navigation.instant
     - navigation.instant.progress
@@ -49,6 +50,9 @@ theme:
 
 extra_css:
   - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/acessibilidade.js
 
 plugins:
   - search
